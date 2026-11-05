@@ -1,0 +1,41 @@
+{
+  "_source": "Wix connector: Item SEO Tags API (STATIC_PAGE), SEO Redirects API, URL Mapping API, pulled 2026-11-05",
+  "_note": "No page has its own SEO override (hasOverride=false); every tag below comes from Wix's default pattern. Each page also renders og:site_name, og:type=website, og:image:width=2500, og:image:height=1330 and twitter:card=summary_large_image.",
+  "defaultShareImage": "https://static.wixstatic.com/media/e2db2c_43b45bd3bae045dfa16273f76fd4768d%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e2db2c_43b45bd3bae045dfa16273f76fd4768d%7Emv2.png",
+  "staticPages": [
+    {
+      "pageId": "sbj2r",
+      "name": "Home",
+      "url": "https://www.navarisboats.com",
+      "title": "Home | NAVARIS BOATS. UNBEATABLE VALUE",
+      "hasOverride": false,
+      "focusKeywords": []
+    },
+    {
+      "pageId": "iyv84",
+      "name": "Contact",
+      "url": "https://www.navarisboats.com/contact",
+      "title": "Contact | NAVARIS BOATS. UNBEATABLE VALUE",
+      "hasOverride": false,
+      "focusKeywords": []
+    },
+    {
+      "pageId": "j0r08",
+      "name": "Privacy Policy",
+      "url": "https://www.navarisboats.com/english-privacy-policy",
+      "title": "Privacy Policy | NAVARIS BOATS. UNBEATABLE VALUE",
+      "hasOverride": false,
+      "focusKeywords": []
+    },
+    {
+      "pageId": "gwvg1",
+      "name": "Accessibility Statement",
+      "url": "https://www.navarisboats.com/accessibility-statement",
+      "title": "Accessibility Statement | NAVARIS BOATS. UNBEATABLE VALUE",
+      "hasOverride": false,
+      "focusKeywords": []
+    }
+  ],
+  "redirects": [],
+  "urlMappings": []
+}

@@ -1,0 +1,47 @@
+{
+  "_source": "Wix connector (GetSiteContext + Site Properties API v4), pulled 2026-11-05",
+  "site": {
+    "id": "b2b4be8b-2e0e-4b0d-ad1e-90479005a636",
+    "name": "NAVARIS BOATS. UNBEATABLE VALUE",
+    "url": "https://www.navarisboats.com/",
+    "status": "Published",
+    "plan": "Premium",
+    "customDomain": true,
+    "editorType": "Editor",
+    "veloEnabled": false,
+    "createdDate": "2025-03-21T08:40:00",
+    "updatedDate": "2026-11-02T17:26:00"
+  },
+  "installedApps": [
+    { "name": "Promote SEO", "appId": "1480c568-5cbd-9392-5604-1148f5faffa0" },
+    { "name": "Wix Hotels", "appId": "14bca956-e09f-f4d6-14d7-466cb3f09103" },
+    { "name": "Wix Invoices", "appId": "13ee94c1-b635-8505-3391-97919052c16f", "version": "V1" }
+  ],
+  "siteProperties": {
+    "version": "20",
+    "properties": {
+      "categories": { "primary": "other", "secondary": ["Boat Dealership"] },
+      "locale": { "languageCode": "fr", "country": "FR" },
+      "language": "en",
+      "paymentCurrency": "EUR",
+      "timeZone": "Europe/Paris",
+      "email": "info@navarisboats.com",
+      "phone": "+385912205223",
+      "address": {
+        "street": "",
+        "city": "",
+        "country": "",
+        "state": "",
+        "zip": "",
+        "isPhysical": false,
+        "googleFormattedAddress": "",
+        "streetNumber": "",
+        "apartmentNumber": ""
+      },
+      "siteDisplayName": "NAVARIS BOATS. UNBEATABLE VALUE",
+      "businessName": "NAVARIS BOATS",
+      "businessConfig": "STORE",
+      "trackClicksAnalytics": false
+    }
+  }
+}

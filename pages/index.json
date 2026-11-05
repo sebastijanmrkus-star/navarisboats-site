@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.navarisboats.com/accessibility-statement",
+    "slug": "accessibility-statement",
+    "html": "pages/html/accessibility-statement.html",
+    "text": "pages/text/accessibility-statement.md",
+    "title": "Accessibility Statement | NAVARIS BOATS. UNBEATABLE VALUE",
+    "metaDescription": null,
+    "htmlBytes": 385209,
+    "textLines": 49
+  },
+  {
+    "url": "https://www.navarisboats.com/contact",
+    "slug": "contact",
+    "html": "pages/html/contact.html",
+    "text": "pages/text/contact.md",
+    "title": "Contact | NAVARIS BOATS. UNBEATABLE VALUE",
+    "metaDescription": null,
+    "htmlBytes": 373262,
+    "textLines": 12
+  },
+  {
+    "url": "https://www.navarisboats.com/english-privacy-policy",
+    "slug": "english-privacy-policy",
+    "html": "pages/html/english-privacy-policy.html",
+    "text": "pages/text/english-privacy-policy.md",
+    "title": "Privacy Policy | NAVARIS BOATS. UNBEATABLE VALUE",
+    "metaDescription": null,
+    "htmlBytes": 360962,
+    "textLines": 17
+  },
+  {
+    "url": "https://www.navarisboats.com",
+    "slug": "home",
+    "html": "pages/html/home.html",
+    "text": "pages/text/home.md",
+    "title": "Home | NAVARIS BOATS. UNBEATABLE VALUE",
+    "metaDescription": null,
+    "htmlBytes": 429650,
+    "textLines": 79
+  }
+]
