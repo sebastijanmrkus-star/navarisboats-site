@@ -1,39 +1,63 @@
 {
-  "_source": "Wix connector: Item SEO Tags API (STATIC_PAGE), SEO Redirects API, URL Mapping API, redirects refreshed 2026-11-07T10:44:11.910Z",
-  "_note": "No page has its own SEO override (hasOverride=false); every tag below comes from Wix's default pattern. Each page also renders og:site_name, og:type=website, og:image:width=2500, og:image:height=1330 and twitter:card=summary_large_image.",
+  "_source": "Wix connector: Item SEO Tags API (STATIC_PAGE), SEO Redirects API, URL Mapping API; SEO titles and descriptions set 2026-11-07",
+  "_note": "Each page has its own SEO title and meta description in English and Croatian (set 2026-11-07). The English ones were written with the Item SEO Tags API (the TAG_SOURCE_HOST_PAGE layer); og:title and og:description follow them. The API writes only the main language, so the Croatian ones were entered in the Wix Editor (Croatian view, Pages & Menu, SEO basics) and are not readable through the API: the values below were checked on the live /hr pages. Each page also renders og:site_name, og:type=website, og:image:width=2500, og:image:height=1330 and twitter:card=summary_large_image.",
   "defaultShareImage": "https://static.wixstatic.com/media/e2db2c_43b45bd3bae045dfa16273f76fd4768d%7Emv2.png/v1/fit/w_2500,h_1330,al_c/e2db2c_43b45bd3bae045dfa16273f76fd4768d%7Emv2.png",
   "staticPages": [
     {
       "pageId": "sbj2r",
       "name": "Home",
       "url": "https://www.navarisboats.com",
-      "title": "Home | NAVARIS BOATS. UNBEATABLE VALUE",
-      "hasOverride": false,
-      "focusKeywords": []
+      "title": "Premium RIB Boats from Croatia | NAVARIS BOATS",
+      "hasOverride": true,
+      "focusKeywords": [],
+      "description": "Brand-new RIB boats from 4.8 to 10.5 m with Mercury engines, designed in Ploče, Croatia. 3-year warranty, 15-day delivery. From €19,500 + VAT.",
+      "hr": {
+        "url": "https://www.navarisboats.com/hr",
+        "title": "Vrhunski gumenjaci iz Hrvatske | NAVARIS BOATS",
+        "description": "Novi gumenjaci od 4,8 do 10,5 m s Mercury motorima, projektirani u Pločama. Jamstvo 3 godine, isporuka za 15 dana. Od 19.500 EUR + PDV."
+      }
     },
     {
       "pageId": "iyv84",
       "name": "Contact",
       "url": "https://www.navarisboats.com/contact",
-      "title": "Contact | NAVARIS BOATS. UNBEATABLE VALUE",
-      "hasOverride": false,
-      "focusKeywords": []
+      "title": "Contact & Showroom | NAVARIS BOATS",
+      "hasOverride": true,
+      "focusKeywords": [],
+      "description": "Visit the NAVARIS BOATS showroom or contact us by phone or email about our boats, prices and charter partnership. Open Mon–Fri, 9 AM–6 PM.",
+      "hr": {
+        "url": "https://www.navarisboats.com/hr/contact",
+        "title": "Kontakt i izložbeni salon | NAVARIS BOATS",
+        "description": "Posjetite izložbeni salon NAVARIS BOATS ili nam se javite telefonom ili e-poštom za upite o plovilima, cijenama i charter partnerstvu. Pon–pet 9–18 h."
+      }
     },
     {
       "pageId": "j0r08",
       "name": "Privacy Policy",
       "url": "https://www.navarisboats.com/english-privacy-policy",
-      "title": "Privacy Policy | NAVARIS BOATS. UNBEATABLE VALUE",
-      "hasOverride": false,
-      "focusKeywords": []
+      "title": "Privacy Policy | NAVARIS BOATS",
+      "hasOverride": true,
+      "focusKeywords": [],
+      "description": "How NAVARIS BOATS collects, uses and protects the personal data of visitors to navarisboats.com, and how to contact us about your privacy.",
+      "hr": {
+        "url": "https://www.navarisboats.com/hr/english-privacy-policy",
+        "title": "Pravila privatnosti | NAVARIS BOATS",
+        "description": "Kako NAVARIS BOATS prikuplja, koristi i štiti osobne podatke posjetitelja stranice navarisboats.com te kako nas kontaktirati u vezi s privatnošću."
+      }
     },
     {
       "pageId": "gwvg1",
       "name": "Accessibility Statement",
       "url": "https://www.navarisboats.com/accessibility-statement",
-      "title": "Accessibility Statement | NAVARIS BOATS. UNBEATABLE VALUE",
-      "hasOverride": false,
-      "focusKeywords": []
+      "title": "Accessibility Statement | NAVARIS BOATS",
+      "hasOverride": true,
+      "focusKeywords": [],
+      "description": "Our commitment to making navarisboats.com accessible to every visitor, and how to contact us if you have trouble using the site.",
+      "hr": {
+        "url": "https://www.navarisboats.com/hr/accessibility-statement",
+        "title": "Izjava o pristupačnosti | NAVARIS BOATS",
+        "description": "Naša predanost tome da stranica navarisboats.com bude pristupačna svim posjetiteljima te kako nas kontaktirati ako imate poteškoća s korištenjem."
+      }
     }
   ],
   "redirects": [],
