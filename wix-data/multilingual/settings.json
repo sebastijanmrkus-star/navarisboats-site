@@ -1,0 +1,56 @@
+{
+  "_source": "Wix connector: Locale Settings API + Locales API, pulled 2026-11-07T10:44:11.910Z",
+  "localeSettings": {
+    "revision": "4",
+    "createdDate": "2026-11-05T19:51:25.263Z",
+    "updatedDate": "2026-11-07T08:18:22.412Z",
+    "multilingualModeEnabled": true,
+    "autoSwitch": false,
+    "urlStructure": "SUBDIRECTORY",
+    "primaryLocale": {
+      "id": "en",
+      "languageCode": "en",
+      "visibility": "VISIBLE",
+      "primaryLocale": true,
+      "flag": "GBR",
+      "effectiveUrlStructure": "SUBDIRECTORY",
+      "machineTranslationCode": "EN",
+      "effectiveDisplayName": "English",
+      "displayName": "English"
+    }
+  },
+  "locales": [
+    {
+      "id": "en",
+      "revision": "3",
+      "createdDate": "2025-05-24T13:47:25.955Z",
+      "updatedDate": "2026-11-07T08:18:21.923Z",
+      "languageCode": "en",
+      "visibility": "VISIBLE",
+      "primaryLocale": true,
+      "visitorPrimaryLocale": true,
+      "flag": "GBR",
+      "regionalFormat": "en-GB",
+      "effectiveUrlStructure": "SUBDIRECTORY",
+      "machineTranslationCode": "EN",
+      "effectiveDisplayName": "English",
+      "displayName": "English"
+    },
+    {
+      "id": "hr",
+      "revision": "2",
+      "createdDate": "2026-11-05T19:52:03.085Z",
+      "updatedDate": "2026-11-05T19:59:36.467Z",
+      "languageCode": "hr",
+      "visibility": "VISIBLE",
+      "primaryLocale": false,
+      "visitorPrimaryLocale": false,
+      "flag": "HRV",
+      "regionalFormat": "hr-HR",
+      "effectiveUrlStructure": "SUBDIRECTORY",
+      "machineTranslationCode": "HR",
+      "effectiveDisplayName": "Croatian",
+      "displayName": "Croatian"
+    }
+  ]
+}

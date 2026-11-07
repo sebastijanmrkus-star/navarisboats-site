@@ -1,5 +1,5 @@
 {
-  "_source": "Wix connector (GetSiteContext + Site Properties API v4), pulled 2026-11-05",
+  "_source": "Wix connector (GetSiteContext + Site Properties API v4), first pulled 2026-11-05, refreshed 2026-11-07T10:44:11.910Z",
   "site": {
     "id": "b2b4be8b-2e0e-4b0d-ad1e-90479005a636",
     "name": "NAVARIS BOATS. UNBEATABLE VALUE",
@@ -13,15 +13,38 @@
     "updatedDate": "2026-11-02T17:26:00"
   },
   "installedApps": [
-    { "name": "Promote SEO", "appId": "1480c568-5cbd-9392-5604-1148f5faffa0" },
-    { "name": "Wix Hotels", "appId": "14bca956-e09f-f4d6-14d7-466cb3f09103" },
-    { "name": "Wix Invoices", "appId": "13ee94c1-b635-8505-3391-97919052c16f", "version": "V1" }
+    {
+      "name": "Promote SEO",
+      "appId": "1480c568-5cbd-9392-5604-1148f5faffa0"
+    },
+    {
+      "name": "Wix Hotels",
+      "appId": "14bca956-e09f-f4d6-14d7-466cb3f09103"
+    },
+    {
+      "name": "Wix Invoices",
+      "appId": "13ee94c1-b635-8505-3391-97919052c16f",
+      "version": "V1"
+    },
+    {
+      "name": "Wix Multilingual",
+      "appId": "14d84998-ae09-1abf-c6fc-3f3cace5bf19",
+      "addedDate": "2026-11-05"
+    }
   ],
   "siteProperties": {
-    "version": "20",
+    "version": "35",
     "properties": {
-      "categories": { "primary": "other", "secondary": ["Boat Dealership"] },
-      "locale": { "languageCode": "fr", "country": "FR" },
+      "categories": {
+        "primary": "other",
+        "secondary": [
+          "Boat Dealership"
+        ]
+      },
+      "locale": {
+        "languageCode": "en",
+        "country": "GB"
+      },
       "language": "en",
       "paymentCurrency": "EUR",
       "timeZone": "Europe/Paris",
@@ -40,8 +63,42 @@
       },
       "siteDisplayName": "NAVARIS BOATS. UNBEATABLE VALUE",
       "businessName": "NAVARIS BOATS",
+      "multilingual": {
+        "supportedLanguages": [
+          {
+            "languageCode": "en",
+            "locale": {
+              "languageCode": "en",
+              "country": "GB"
+            },
+            "isPrimary": true,
+            "countryCode": "GBR",
+            "resolutionMethod": "SUBDIRECTORY",
+            "isVisitorPrimary": true
+          },
+          {
+            "languageCode": "hr",
+            "locale": {
+              "languageCode": "hr",
+              "country": "HR"
+            },
+            "isPrimary": false,
+            "countryCode": "HRV",
+            "resolutionMethod": "SUBDIRECTORY",
+            "isVisitorPrimary": false
+          }
+        ],
+        "autoRedirect": false
+      },
       "businessConfig": "STORE",
       "trackClicksAnalytics": false
     }
+  },
+  "languages": {
+    "main": "en (UK flag, en-GB format)",
+    "secondary": [
+      "hr (Croatian flag, hr-HR format, under /hr)"
+    ],
+    "details": "wix-data/multilingual/settings.json"
   }
 }

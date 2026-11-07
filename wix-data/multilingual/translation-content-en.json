@@ -1,0 +1,769 @@
+{
+  "_source": "Wix connector: Translation Content API, English (main language) items as Wix stores them, pulled 2026-11-07T10:44:11.910Z",
+  "_note": "These mirror the Editor content. Each item is one Wix element (entityId) on a page (parentEntityId; masterPage = shown on every page).",
+  "items": [
+    {
+      "entityId": "a2d4c0a4-84ba-4b57-aa70-cb58c992b332",
+      "schemaId": "e99a7449-8d4f-43da-9046-0664342e26b5",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:28.190Z",
+      "fields": {
+        "name": "Location 1"
+      }
+    },
+    {
+      "entityId": "gwvg1",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.406Z",
+      "fields": {
+        "title": "Accessibility Statement"
+      }
+    },
+    {
+      "entityId": "iyv84",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.406Z",
+      "fields": {
+        "title": "Contact"
+      }
+    },
+    {
+      "entityId": "j0r08",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.406Z",
+      "fields": {
+        "title": "Privacy Policy"
+      }
+    },
+    {
+      "entityId": "masterPage",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.406Z",
+      "fields": {
+        "title": "Translation_Manager_Table_Filters_Pages_Shown_On_All_Pages"
+      }
+    },
+    {
+      "entityId": "sbj2r",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.406Z",
+      "fields": {
+        "title": "Home"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkv1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\"><span class=\"color_11\">The purpose of the following template is to assist you in writing your accessibility statement. Please note that you are responsible for ensuring that your site's statement meets the requirements of the local law in your area or region.<br> <br> <span style=\"font-style:italic;\">*Note: This page currently has two sections. Once you complete editing the Accessibility Statement below, you need to delete this section.</span><br> <br> To learn more about this, check out our article <span style=\"text-decoration:underline\"><a dataquery=\"LINK_0\">“Accessibility: Adding an Accessibility Statement to Your Site”.</a></span></span></p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkvt",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h1 class=\"font_0\">Accessibility Statement</h1>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkvw1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">This statement was last updated on <span style=\"font-style:italic\">[enter relevant date].</span><br> <br> We at <span style=\"font-style:italic\">[enter organization / business name]</span> are working to make our site <span style=\"font-style:italic\">[enter site name and &nbsp;address]</span> accessible to people with disabilities.</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkwn",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\">What web accessibility is</h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkww1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">An accessible site allows visitors with disabilities to browse the site with the same or a similar level of ease and enjoyment as other visitors. This can be achieved with the capabilities of the system on which the site is operating, and through assistive technologies.</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkxg",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\">Accessibility adjustments on this site</h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkxp",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">We have adapted this site in accordance with WCAG <span style=\"font-style:italic;\">[2.0 / 2.1 / 2.2 - select relevant option]</span> guidelines, and have made the site accessible to the level of<span style=\"font-style:italic;\"> [A / AA / AAA - select relevant option].</span> This site's contents have been adapted to work with assistive technologies, such as screen readers and keyboard use. As part of this effort, we have also <span style=\"font-style:italic;\">[remove irrelevant information]:</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkxu",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<ul class=\"font_8\"> \n <li> <p class=\"font_8\">Used the Accessibility Wizard to find and fix potential accessibility issues</p> </li> \n <li> <p class=\"font_8\">Set the language of the site&nbsp;</p> </li> \n <li> <p class=\"font_8\">Set the content order of the site’s pages</p> </li> \n <li> <p class=\"font_8\">Defined clear heading structures on all of the site’s pages</p> </li> \n <li> <p class=\"font_8\">Added alternative text to images</p> </li> \n <li> <p class=\"font_8\">Implemented color combinations that meet the required color contrast</p> </li> \n <li> <p class=\"font_8\">Reduced the use of motion on the site</p> </li> \n <li> <p class=\"font_8\">Ensured all videos, audio, and files on the site are accessible</p> </li> \n</ul>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkya",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\">Declaration of partial compliance with the standard due to third-party content [only add if relevant]</h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkyj",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">The accessibility of certain pages on the site depend on contents that do not belong to the organization, and instead belong to <span style=\"font-style:italic;\">[enter relevant third-party name]</span>. The following pages are affected by this: <span style=\"font-style:italic;\">[list the URLs of the pages]</span>. We therefore declare partial compliance with the standard for these pages.</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkyw",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\">Accessibility arrangements in the organization [only add if relevant]</h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkz8",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\"><span style=\"font-style:italic;\">[Enter a description of the accessibility arrangements in the physical offices / branches of your site's organization or business. The description can include all current accessibility arrangements&nbsp; - starting from the beginning of the service (e.g., the parking lot and / or&nbsp; public transportation stations) to the end (such as the service desk, restaurant table, classroom etc.). It is also required to specify any additional accessibility arrangements, such as disabled services and their location, and accessibility accessories (e.g. in audio inductions and elevators) available for use]</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkzm",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\">Requests, issues, and suggestions</h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkzx",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.453Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">If you find an accessibility issue on the site, or if you require further assistance, you are welcome to contact us through the organization's accessibility coordinator:</p> \n<ul class=\"font_8\" style=\"font-style: italic;\"> \n <li> <p class=\"font_8\"><span style=\"font-style:italic;\">[Name of the accessibility coordinator]</span></p> </li> \n <li> <p class=\"font_8\"><span style=\"font-style:italic;\">[Telephone number of the accessibility coordinator]</span></p> </li> \n <li> <p class=\"font_8\"><span style=\"font-style:italic;\">[Email address of the accessibility coordinator]</span></p> </li> \n <li> <p class=\"font_8\"><span style=\"font-style:italic;\">[Enter any additional contact details if relevant / available]</span></p> </li> \n</ul>"
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0u2",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.876Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h1 class=\"font_2\"><span class=\"color_37\">Get in Touch</span></h1>"
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0ui",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.876Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\">Visit Our Showroom</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0ve",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.876Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\"><span class=\"color_15\">For any inquiries or to explore our boats, feel free to visit our showroom or contact us through phone or email.</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0xj",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.876Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_2\">Our Schedule</h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0y3",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.876Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_5\" style=\"text-align:right\">Weekdays</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0yn",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.876Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">Monday to Friday: 9 AM - 6 PM</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftknz",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.458Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h1 class=\"font_0\" style=\"text-align:center\">Privacy Policy</h1>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkoj",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.458Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\" style=\"font-size:19px\"><span style=\"font-size:19px\">A legal disclaimer</span></h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkoq",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.458Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">The explanations and information provided on this page are only general and high-level explanations and information on how to write your own document of a Privacy Policy. You should not rely on this article as legal advice or as recommendations regarding what you should actually do, because we cannot know in advance what are the specific privacy policies you wish to establish between your business and your customers and visitors. We recommend that you seek legal advice to help you understand and to assist you in the creation of your own Privacy Policy.</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkoz",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.458Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\" style=\"font-size:19px\"><span style=\"font-size:19px\">Privacy Policy - the basics</span></h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkp2",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.458Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">Having said that, a privacy policy is a statement that discloses some or all of the ways a website collects, uses, discloses, processes, and manages the data of its visitors and customers. It usually also includes a statement regarding the website’s commitment to protecting its visitors’ or customers’ privacy, and an explanation about the different mechanisms the website is implementing in order to protect privacy.&nbsp;</p> \n<p class=\"font_8\">&nbsp;</p> \n<p class=\"font_8\">Different jurisdictions have different legal obligations of what must be included in a Privacy Policy. You are responsible to make sure you are following the relevant legislation to your activities and location.&nbsp;</p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkp5",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.458Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_5\" style=\"font-size:19px\"><span style=\"font-size:19px\">What to include in the Privacy Policy</span></h2>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftkpc",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.458Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\">Generally speaking, a Privacy Policy often addresses these types of issues: the types of information the website is collecting and the manner in which it collects the data; an explanation about why is the website collecting these types of information; what are the website’s practices on sharing the information with third parties; ways in which your visitors and customers can exercise their rights according to the relevant privacy legislation; the specific practices regarding minors’ data collection; and much, much more.&nbsp;</p> \n<p class=\"font_8\"><br> To learn more about this, check out our article “<span style=\"text-decoration:underline\"><a dataquery=\"LINK_0\">Creating a Privacy Policy</a></span>”.</p>"
+      }
+    },
+    {
+      "entityId": "CUSTOM_MAIN_MENU",
+      "schemaId": "7b403282-108e-4692-9b3c-04738970a2d4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.403Z",
+      "fields": {
+        "menu": "<?xml version='1.1' encoding='UTF-8'?><menu><items><items><label>Home</label><items/></items><items><label>Contact</label><items/></items><items><label>Privacy Policy</label><items/></items><items><label>Accessibility Statement</label><items/></items></items></menu>"
+      }
+    },
+    {
+      "entityId": "comp-mvqxlrml",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.447Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "Phone"
+      }
+    },
+    {
+      "entityId": "comp-mvqxmn7c",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.447Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "Mail"
+      }
+    },
+    {
+      "entityId": "comp-mvr95yyv",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "masterPage",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.447Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": "e2db2c_a68c5e7e7a13466a94d1f38b8f78adc8~mv2.png",
+        "compFeatures-wPhoto-data-title": "",
+        "compFeatures-wPhoto-data-alt": ""
+      }
+    },
+    {
+      "entityId": "comp-mvr9a2eq",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "masterPage",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.447Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": "e2db2c_a68c5e7e7a13466a94d1f38b8f78adc8~mv2.png",
+        "compFeatures-wPhoto-data-title": "",
+        "compFeatures-wPhoto-data-alt": ""
+      }
+    },
+    {
+      "entityId": "comp-mvr9agba",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.447Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "Phone"
+      }
+    },
+    {
+      "entityId": "comp-mvr9avvp",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.447Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "Mail"
+      }
+    },
+    {
+      "entityId": "comp-m9fftlob",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h3 class=\"font_4\" style=\"text-align: center;\">NAVARIS 7.6M</h3>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftloh1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\">MERCURY VERADO 300HP V8</p> \n<p class=\"font_7\" style=\"text-align:center\">HYPALON * 5MM 5083 ALUMINUM</p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"font-size:16px\">FRIDGE * EL. WINCH * HARDTOP * SIMRAD </span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"font-size:16px\">MUSIC * SOLAR * FUEL TANK 300L * SHOWER</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-m9fftlos",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h3 class=\"font_4\" style=\"text-align: center;\">NAVARIS 7.0M</h3>"
+      }
+    },
+    {
+      "entityId": "comp-mvqu4uid",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": "e2db2c_9532f9d3fc9f476fa9f57811527ece46~mv2.jpg",
+        "compFeatures-wPhoto-data-title": "",
+        "compFeatures-wPhoto-data-description": "",
+        "compFeatures-wPhoto-data-alt": "navaris-700-mercury-150hp-fridge-el-vinc-hardtop-simrad-tus-slika-282822773.jpg"
+      }
+    },
+    {
+      "entityId": "comp-mvquek26",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": "e2db2c_71f394ddfd5f4ecbafbd796d4f6f6ecb~mv2.jpg",
+        "compFeatures-wPhoto-data-title": "",
+        "compFeatures-wPhoto-data-description": "",
+        "compFeatures-wPhoto-data-alt": "navaris-al760-honda-250hp-el-vinc-fridge-garmin-slika-289581581_edited.jpg"
+      }
+    },
+    {
+      "entityId": "comp-mvquwwjd",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">BOAT + ENGINE</span></span></p> \n<p class=\"font_7\" style=\"font-size:18px; text-align:center\"><span style=\"font-size:18px\"><span style=\"color:#000000\">3 YEAR WARRANTY * 15 DAYS DELIVERY</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">61.990 EUR + VAT</span></span></p> \n<p class=\"font_7\" style=\"text-align: center; font-size: 19px;\"><span style=\"color:#000000;\"><span style=\"font-size:19px;\">BRAND NEW</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">+385 99 8853 578 info@navarisboats.com</span></span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqv5qrc",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "View More"
+      }
+    },
+    {
+      "entityId": "comp-mvqv6wh9",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\">MERCURY 150HP V6</p> \n<p class=\"font_7\" style=\"text-align:center\">HYPALON * 5MM 5083 ALUMINUM</p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"font-size:16px\">FRIDGE * EL. WINCH * HARDTOP * SIMRAD</span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"font-size:16px\">MUSIC * SOLAR * FUEL TANK 200L * SHOWER</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqvd491",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">BOAT + ENGINE</span></span></p> \n<p class=\"font_7\" style=\"font-size:18px; text-align:center\"><span style=\"font-size:18px\"><span style=\"color:#000000\">3 YEAR WARRANTY * 15 DAYS DELIVERY</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">39.990 EUR + VAT</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">BRAND NEW</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">+385 99 8853 578 info@navarisboats.com</span></span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqveuv7",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "View More"
+      }
+    },
+    {
+      "entityId": "comp-mvqw9iwq1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_4\" style=\"font-size:45px; line-height:1.25em; text-align:left\"><span style=\"font-size:45px\"><span style=\"letter-spacing:normal\"><span class=\"color_15\">PREMIUM QUALITY</span><br> <br> <span style=\"color:#E33B08\">UNBEATABLE VALUE.</span></span></span></h2>"
+      }
+    },
+    {
+      "entityId": "comp-mvqwav3y",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": "e2db2c_43b45bd3bae045dfa16273f76fd4768d~mv2.png",
+        "compFeatures-wPhoto-data-title": "",
+        "compFeatures-wPhoto-data-description": "",
+        "compFeatures-wPhoto-data-alt": "NavarisBoats-Logo.png"
+      }
+    },
+    {
+      "entityId": "comp-mvqwrq34",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h3 class=\"font_4\" style=\"text-align:center\">NAVARIS 4.8M</h3>"
+      }
+    },
+    {
+      "entityId": "comp-mvqwsjy4",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h3 class=\"font_4\" style=\"text-align:center\">NAVARIS 8.0M</h3>"
+      }
+    },
+    {
+      "entityId": "comp-mvqwtfc3",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\">MERCURY 60HP V4</p> \n<p class=\"font_7\" style=\"text-align:center\">HYPALON * 5MM 5083 ALUMINUM</p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"font-size:16px\">FRIDGE * T-TOP * SIMRAD</span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"font-size:16px\">MUSIC * SOLAR * FUEL TANK 60L&nbsp;</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqwvkbr",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">BOAT + ENGINE</span></span></p> \n<p class=\"font_7\" style=\"font-size:18px; text-align:center\"><span style=\"font-size:18px\"><span style=\"color:#000000\">3 YEAR WARRANTY * 15 DAYS DELIVERY</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">19.500 EUR + VAT</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">BRAND NEW</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">+385 99 8853 578 info@navarisboats.com</span></span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqwyi7j",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": "e2db2c_633ba245254446018214686b74efac7f~mv2.jpg",
+        "compFeatures-wPhoto-data-title": "",
+        "compFeatures-wPhoto-data-description": "",
+        "compFeatures-wPhoto-data-alt": "navaris-480-mercury-60hp-fridge-ttop-simrad-muzika-slika-282823384_edited.jpg"
+      }
+    },
+    {
+      "entityId": "comp-mvqwzb1b",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "View More"
+      }
+    },
+    {
+      "entityId": "comp-mvqx1565",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\">MERCURY VERADO 300HP V8</p> \n<p class=\"font_7\" style=\"text-align:center\">FIBERGLASS</p> \n<p class=\"font_7\" style=\"font-size:15px; text-align:center\"><span style=\"font-size:15px\">FRIDGE * EL. WINCH * HARDTOP * SIMRAD * AC</span></p> \n<p class=\"font_7\" style=\"font-size:15px; text-align:center\"><span style=\"font-size:15px\">MUSIC * SOLAR * FUEL TANK 400L * SHOWER</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqx44vv",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": "e2db2c_2bd4899794d844e696a0a9a9f5b7996c~mv2.jpg",
+        "compFeatures-wPhoto-data-title": "",
+        "compFeatures-wPhoto-data-description": "",
+        "compFeatures-wPhoto-data-alt": "navaris-26-gt-verado-300hp-klima-frizider-el-vinc-full-oprema-slika-282822468_edited.jpg"
+      }
+    },
+    {
+      "entityId": "comp-mvqx4x8z",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">BOAT + ENGINE</span></span></p> \n<p class=\"font_7\" style=\"font-size:18px; text-align:center\"><span style=\"font-size:18px\"><span style=\"color:#000000\">3 YEAR WARRANTY * 15 DAYS DELIVERY</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\">89.900 EUR + VAT</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">BRAND NEW</span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">+385 99 8853 578 info@navarisboats.com</span></span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqx5hos",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": "View More"
+      }
+    },
+    {
+      "entityId": "comp-mvqx796r",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_9\" style=\"font-size:19px; text-align:right\"><span style=\"letter-spacing:normal\"><span style=\"font-size:19px\">At NAVARIS BOATS, we are dedicated to building high-grade boats ranging from 4.8m to 10.5m. Engineered with Marine Grade 5083 5mm aluminum, heavy-duty Achilles Hypalon, and reinforced deep-V hulls, every vessel is the result of three generations of hands-on sea testing and continuous refinement. Driven by unbeatable value and uncompromising build quality, our mission is to elevate your on-water capability. Proudly designed and based in the port of Ploče, Croatia.</span></span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvqx9ixr",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_4\" style=\"font-size:45px; line-height:1.25em; text-align:left\"><span style=\"font-size:45px\"><span style=\"letter-spacing:normal\">MASTERED<br> <br> <span style=\"color:#E33B08\">CRAFTSMANSHIP.</span></span></span></h2>"
+      }
+    },
+    {
+      "entityId": "comp-mvr7gpdn",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_4\" style=\"font-size:45px; line-height:1.25em; text-align:right\"><span style=\"font-size:45px\"><span style=\"letter-spacing:normal\">ADRIATIC TESTED<br> <br> <span style=\"color:#E33B08\">MLJET &amp; LASTOVO.</span></span></span></h2>"
+      }
+    },
+    {
+      "entityId": "comp-mvr7gzsz",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_9\" style=\"font-size:19px\"><span style=\"font-size:19px\">The open waters surrounding Mljet and Lastovo are world-famous for their beauty, but infamous for punishing afternoon swells and relentless chop. That is our backyard and our testing laboratory.</span></p> \n<p class=\"font_9\" style=\"font-size:19px\"><span style=\"font-size:19px\"><span>​</span></span></p> \n<p class=\"font_9\" style=\"font-size:19px\"><span style=\"font-size:19px\">Running our own rental fleet gives us a rare engineering edge: we see firsthand how hulls, tubes, and hardware endure under real commercial workloads. Every NAVARIS model undergoes extensive offshore sea trials to eliminate weak points, perfect hull geometry, and guarantee a bone-dry, fuel-efficient ride.</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvr7sovk",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h2 class=\"font_4\" style=\"font-size:45px; line-height:1.25em\"><span style=\"font-size:45px\"><span style=\"letter-spacing:normal\">CHARTER READY<br> <br> <span style=\"color: rgb(227, 59, 8);\">BUILT TO LAST.</span></span></span></h2>"
+      }
+    },
+    {
+      "entityId": "comp-mvr7svfk",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_9\" style=\"font-size:19px; text-align:right\"><span style=\"font-size:19px\">Commercial-Grade Reliability: Structural stringer reinforcement, 316 stainless steel hardware, and tinned, accessible marine wiring—purpose-built for intense duty cycles, rapid port turnarounds, and zero operational downtime.</span></p> \n<p class=\"font_9\" style=\"font-size:19px; text-align:right\"><span style=\"font-size:19px\"><span>​</span></span></p> \n<p class=\"font_9\" style=\"font-size:19px; text-align:right\"><span style=\"font-size:19px\">Turnkey Fleet Deployment: Delivered water-ready and fully commissioned—rigged with matched outboard propulsion, marine electronics, complete offshore safety arrays, mooring kits and UV sun protection to generate revenue from day one.</span></p> \n<p class=\"font_9\" style=\"font-size:19px; text-align:right\"><span style=\"font-size:19px\"><span>​</span></span></p> \n<p class=\"font_9\" style=\"font-size:19px; text-align:right\"><span style=\"font-size:19px\">Offshore Ergonomics &amp; Guest Safety: Intelligent deck architecture featuring expansive sun loungers, generous deep-storage compartments, and high protective freeboards engineered for total passenger confidence.</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvzglzec",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h4 class=\"font_4\" style=\"font-size:45px; text-align:center\"><span style=\"font-size:45px\">CHARTER FLEET PARTNERSHIP<br> <span style=\"color:#E33B08\">EARN 25% REVENUE. ZERO INVESTMENT.</span></span></h4>"
+      }
+    },
+    {
+      "entityId": "comp-mvzglzef",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_8\" style=\"font-size:18px; line-height:1.8em; text-align:center\"><span style=\"font-size:18px\">Expand your rental fleet without buying new vessels. We supply a brand-new NAVARIS boat and the complete digital booking infrastructure—you manage local guest operations and take home 25% of the net revenue.</span></p>"
+      }
+    },
+    {
+      "entityId": "comp-mvzglzek",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h3 class=\"font_5\" style=\"font-size:20px; text-align:center\"><span style=\"color:#E33B08;\"><span style=\"font-size:20px\">WHAT WE PROVIDE</span></span></h3>"
+      }
+    },
+    {
+      "entityId": "comp-mvzglzem",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<ul class=\"font_8\" style=\"font-size:18px\"> \n <li> <p class=\"font_8\" style=\"font-size:18px\"><span style=\"font-size:18px\">Brand-New Navaris Vessel: Fully rigged, offshore-tested, and turnkey charter-ready.</span></p> </li> \n <li> <p class=\"font_8\" style=\"font-size:18px\"><span style=\"font-size:18px\">Complete Protection &amp; Care: Full commercial marine insurance coverage, Croatian registration and all scheduled engine servicing.&nbsp;</span></p> </li> \n <li> <p class=\"font_8\" style=\"font-size:18px\"><span style=\"font-size:18px\">Turnkey Booking Infrastructure: Dedicated online reservation system, integrated payment gateway, and a portable mobile POS for instant invoicing on the dock.</span></p> </li> \n</ul>"
+      }
+    },
+    {
+      "entityId": "comp-mvzglzer",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<h3 class=\"font_5\" style=\"font-size:20px; text-align:center\"><span style=\"font-size:20px\">WHAT YOU PROVIDE</span></h3>"
+      }
+    },
+    {
+      "entityId": "comp-mvzh5utf",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<ul class=\"font_8\" style=\"font-size: 18px;\"> \n <li> <p class=\"font_8\" style=\"font-size: 18px;\"><span style=\"font-size:18px;\">Dedicated Berth: Safe, accessible seasonal mooring for the vessel.</span></p> </li> \n <li> <p class=\"font_8\" style=\"font-size: 18px;\"><span style=\"font-size:18px;\">Guest Operations: Smooth on-site check-in, safety briefing, and return inspections.</span></p> </li> \n <li> <p class=\"font_8\" style=\"font-size: 18px;\"><span style=\"font-size:18px;\">Turnaround Maintenance: Daily washdowns, fueling, and keeping the boat in pristine guest presentation.</span></p> </li> \n</ul>"
+      }
+    },
+    {
+      "entityId": "comp-mvzh8eh8",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-05T19:51:27.466Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": "<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#E33B08\"><span style=\"font-size:25px\"><span class=\"wixGuard\">​</span></span></span></p> \n<p class=\"font_7\" style=\"text-align:center\"><span style=\"color:#000000\"><span style=\"font-size:19px\">+385 99 8853 578 info@navarisboats.com</span></span></p>"
+      }
+    }
+  ]
+}
