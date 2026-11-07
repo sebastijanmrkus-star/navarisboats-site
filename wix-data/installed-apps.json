@@ -1,5 +1,5 @@
 {
-  "_source": "Wix connector: Apps Installer API (Get Installed Apps), pulled 2026-11-07T08:19:08.984Z",
+  "_source": "Wix connector: Apps Installer API (Get Installed Apps), pulled 2026-11-07T10:44:11.910Z",
   "_note": "Includes the platform apps every Wix site carries; the API returns ids only, names are added for the business apps.",
   "apps": [
     {

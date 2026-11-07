@@ -3,7 +3,8 @@
     "wixFileId": "e2db2c_2bd4899794d844e696a0a9a9f5b7996c~mv2.jpg",
     "url": "https://static.wixstatic.com/media/e2db2c_2bd4899794d844e696a0a9a9f5b7996c~mv2.jpg",
     "usedOn": [
-      "home"
+      "home",
+      "hr/home"
     ],
     "inMediaManager": true
   },
@@ -11,7 +12,8 @@
     "wixFileId": "e2db2c_43b45bd3bae045dfa16273f76fd4768d~mv2.png",
     "url": "https://static.wixstatic.com/media/e2db2c_43b45bd3bae045dfa16273f76fd4768d~mv2.png",
     "usedOn": [
-      "home"
+      "home",
+      "hr/home"
     ],
     "inMediaManager": true
   },
@@ -19,7 +21,8 @@
     "wixFileId": "e2db2c_633ba245254446018214686b74efac7f~mv2.jpg",
     "url": "https://static.wixstatic.com/media/e2db2c_633ba245254446018214686b74efac7f~mv2.jpg",
     "usedOn": [
-      "home"
+      "home",
+      "hr/home"
     ],
     "inMediaManager": true
   },
@@ -27,7 +30,8 @@
     "wixFileId": "e2db2c_71f394ddfd5f4ecbafbd796d4f6f6ecb~mv2.jpg",
     "url": "https://static.wixstatic.com/media/e2db2c_71f394ddfd5f4ecbafbd796d4f6f6ecb~mv2.jpg",
     "usedOn": [
-      "home"
+      "home",
+      "hr/home"
     ],
     "inMediaManager": true
   },
@@ -35,7 +39,8 @@
     "wixFileId": "e2db2c_9532f9d3fc9f476fa9f57811527ece46~mv2.jpg",
     "url": "https://static.wixstatic.com/media/e2db2c_9532f9d3fc9f476fa9f57811527ece46~mv2.jpg",
     "usedOn": [
-      "home"
+      "home",
+      "hr/home"
     ],
     "inMediaManager": true
   },
@@ -46,7 +51,11 @@
       "accessibility-statement",
       "contact",
       "english-privacy-policy",
-      "home"
+      "home",
+      "hr/accessibility-statement",
+      "hr/contact",
+      "hr/english-privacy-policy",
+      "hr/home"
     ],
     "inMediaManager": true
   }

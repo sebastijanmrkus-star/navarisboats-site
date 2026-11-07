@@ -1,5 +1,5 @@
 {
-  "_source": "Wix connector: Translation Content API, English (main language) items as Wix stores them, pulled 2026-11-07T08:19:08.984Z",
+  "_source": "Wix connector: Translation Content API, English (main language) items as Wix stores them, pulled 2026-11-07T10:44:11.910Z",
   "_note": "These mirror the Editor content. Each item is one Wix element (entityId) on a page (parentEntityId; masterPage = shown on every page).",
   "items": [
     {

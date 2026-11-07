@@ -4,8 +4,9 @@ Usage (from the repo root): python3 scripts/export_site.py .
 
 Reads wix-data/media-manager.json (pulled with the Wix connector), re-downloads
 every Media Manager original into media/, and re-snapshots every page listed in
-the live sitemap into pages/.
+the live sitemap into pages/, in English and in Croatian (under /hr).
 """
+import datetime
 import html
 import json
 import os
@@ -58,7 +59,9 @@ for f in mm["files"]:
 json.dump(media_index, open(os.path.join(REPO, "media/index.json"), "w"), indent=2)
 
 # ---------- pages ----------
-for name, path in [("sitemap.xml", "/sitemap.xml"), ("pages-sitemap.xml", "/pages-sitemap.xml"), ("robots.txt", "/robots.txt")]:
+for name, path in [("sitemap.xml", "/sitemap.xml"), ("pages-sitemap.xml", "/pages-sitemap.xml"),
+                   ("hr_hr-sitemap.xml", "/hr_hr-sitemap.xml"), ("hr_hr-pages-sitemap.xml", "/hr_hr-pages-sitemap.xml"),
+                   ("robots.txt", "/robots.txt")]:
     curl(SITE + path, os.path.join(REPO, "pages", name))
 
 sitemap = open(os.path.join(REPO, "pages/pages-sitemap.xml")).read()
@@ -110,9 +113,17 @@ class TextExtractor(HTMLParser):
 
 referenced = {}
 pages_index = []
-for url in page_urls:
-    slug = url.replace(SITE, "").strip("/") or "home"
-    html_rel = f"pages/html/{slug}.html"
+TODAY = datetime.date.today().isoformat()
+# the sitemap lists the English pages; each also exists in Croatian under /hr
+targets = [(u, "en") for u in page_urls] + [(SITE + "/hr" + u.replace(SITE, ""), "hr") for u in page_urls]
+for url, lang in targets:
+    path = url.replace(SITE, "")
+    if lang == "hr":
+        path = path[len("/hr"):]
+    slug = path.strip("/") or "home"
+    sub = "hr/" if lang == "hr" else ""
+    html_rel = f"pages/html/{sub}{slug}.html"
+    os.makedirs(os.path.dirname(os.path.join(REPO, html_rel)), exist_ok=True)
     curl(url, os.path.join(REPO, html_rel))
     raw = open(os.path.join(REPO, html_rel), encoding="utf-8", errors="replace").read()
 
@@ -126,16 +137,18 @@ for url in page_urls:
     for ln in ex.lines:
         if not lines or lines[-1] != ln:
             lines.append(ln)
-    text_rel = f"pages/text/{slug}.md"
+    text_rel = f"pages/text/{sub}{slug}.md"
+    os.makedirs(os.path.dirname(os.path.join(REPO, text_rel)), exist_ok=True)
     with open(os.path.join(REPO, text_rel), "w") as fh:
-        fh.write(f"<!-- Text extracted from {url} on 2026-11-05 -->\n\n")
+        fh.write(f"<!-- Text extracted from {url} on {TODAY} -->\n\n")
         fh.write("\n\n".join(lines) + "\n")
 
     for mid in set(re.findall(r"static\.wixstatic\.com/media/([0-9a-f]{6}_[0-9a-f]{32}(?:~mv2)?\.[a-z0-9]+)", raw)):
-        referenced.setdefault(mid, []).append(slug)
+        referenced.setdefault(mid, []).append(sub + slug)
 
     pages_index.append({
         "url": url,
+        "lang": lang,
         "slug": slug,
         "html": html_rel,
         "text": text_rel,

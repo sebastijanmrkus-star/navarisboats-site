@@ -1,4 +1,4 @@
-<!-- Text extracted from https://www.navarisboats.com/contact on 2026-11-05 -->
+<!-- Text extracted from https://www.navarisboats.com/contact on 2026-11-07 -->
 
 top of page
 

@@ -1,6 +1,6 @@
 {
-  "_source": "Wix connector: Translation Content API, Croatian items, pulled 2026-11-07T08:19:08.984Z",
-  "_note": "The Croatian texts themselves are in translations/hr-wix.txt. At export, every text in that file was checked against Wix (FNV-1a checksum over UTF-16): 70 of 70 identical. This file lists every Croatian item on Wix with its publish state.",
+  "_source": "Wix connector: Translation Content API, Croatian items, pulled 2026-11-07T10:44:11.910Z",
+  "_note": "The Croatian texts themselves are in translations/hr-wix.txt. At export, 70 of 70 texts in that file were identical to Wix (FNV-1a checksum over UTF-16).",
   "items": [
     {
       "entityId": "gwvg1",
