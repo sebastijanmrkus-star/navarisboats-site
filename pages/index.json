@@ -5,9 +5,9 @@
     "slug": "accessibility-statement",
     "html": "pages/html/accessibility-statement.html",
     "text": "pages/text/accessibility-statement.md",
-    "title": "Accessibility Statement | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 397603,
+    "title": "Accessibility Statement | NAVARIS BOATS",
+    "metaDescription": "Our commitment to making navarisboats.com accessible to every visitor, and how to contact us if you have trouble using the site.",
+    "htmlBytes": 398193,
     "textLines": 49
   },
   {
@@ -16,9 +16,9 @@
     "slug": "contact",
     "html": "pages/html/contact.html",
     "text": "pages/text/contact.md",
-    "title": "Contact | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 385541,
+    "title": "Contact & Showroom | NAVARIS BOATS",
+    "metaDescription": "Visit the NAVARIS BOATS showroom or contact us by phone or email about our boats, prices and charter partnership. Open Mon\u2013Fri, 9 AM\u20136 PM.",
+    "htmlBytes": 386075,
     "textLines": 12
   },
   {
@@ -27,9 +27,9 @@
     "slug": "english-privacy-policy",
     "html": "pages/html/english-privacy-policy.html",
     "text": "pages/text/english-privacy-policy.md",
-    "title": "Privacy Policy | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 373712,
+    "title": "Privacy Policy | NAVARIS BOATS",
+    "metaDescription": "How NAVARIS BOATS collects, uses and protects the personal data of visitors to navarisboats.com, and how to contact us about your privacy.",
+    "htmlBytes": 374329,
     "textLines": 17
   },
   {
@@ -38,9 +38,9 @@
     "slug": "home",
     "html": "pages/html/home.html",
     "text": "pages/text/home.md",
-    "title": "Home | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 442714,
+    "title": "Premium RIB Boats from Croatia | NAVARIS BOATS",
+    "metaDescription": "Brand-new RIB boats from 4.8 to 10.5 m with Mercury engines, designed in Plo\u010de, Croatia. 3-year warranty, 15-day delivery. From \u20ac19,500 + VAT.",
+    "htmlBytes": 443275,
     "textLines": 79
   },
   {
@@ -49,9 +49,9 @@
     "slug": "accessibility-statement",
     "html": "pages/html/hr/accessibility-statement.html",
     "text": "pages/text/hr/accessibility-statement.md",
-    "title": "Accessibility Statement | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 401543,
+    "title": "Izjava o pristupa\u010dnosti | NAVARIS BOATS",
+    "metaDescription": "Na\u0161a predanost tome da stranica navarisboats.com bude pristupa\u010dna svim posjetiteljima te kako nas kontaktirati ako imate pote\u0161ko\u0107a s kori\u0161tenjem.",
+    "htmlBytes": 402055,
     "textLines": 49
   },
   {
@@ -60,9 +60,9 @@
     "slug": "contact",
     "html": "pages/html/hr/contact.html",
     "text": "pages/text/hr/contact.md",
-    "title": "Contact | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 387270,
+    "title": "Kontakt i izlo\u017ebeni salon | NAVARIS BOATS",
+    "metaDescription": "Posjetite izlo\u017ebeni salon NAVARIS BOATS ili nam se javite telefonom ili e-po\u0161tom za upite o plovilima, cijenama i charter partnerstvu. Pon\u2013pet 9\u201318 h.",
+    "htmlBytes": 387924,
     "textLines": 12
   },
   {
@@ -71,9 +71,9 @@
     "slug": "english-privacy-policy",
     "html": "pages/html/hr/english-privacy-policy.html",
     "text": "pages/text/hr/english-privacy-policy.md",
-    "title": "Privacy Policy | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 375940,
+    "title": "Pravila privatnosti | NAVARIS BOATS",
+    "metaDescription": "Kako NAVARIS BOATS prikuplja, koristi i \u0161titi osobne podatke posjetitelja stranice navarisboats.com te kako nas kontaktirati u vezi s privatno\u0161\u0107u.",
+    "htmlBytes": 376591,
     "textLines": 17
   },
   {
@@ -82,9 +82,9 @@
     "slug": "home",
     "html": "pages/html/hr/home.html",
     "text": "pages/text/hr/home.md",
-    "title": "Home | NAVARIS BOATS. UNBEATABLE VALUE",
-    "metaDescription": null,
-    "htmlBytes": 448601,
+    "title": "Vrhunski gumenjaci iz Hrvatske | NAVARIS BOATS",
+    "metaDescription": "Novi gumenjaci od 4,8 do 10,5 m s Mercury motorima, projektirani u Plo\u010dama. Jamstvo 3 godine, isporuka za 15 dana. Od 19.500 EUR + PDV.",
+    "htmlBytes": 449117,
     "textLines": 79
   }
 ]
