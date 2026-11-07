@@ -20,10 +20,18 @@ It was pulled with the Wix connector (site data, SEO, Media Manager) and from th
 | `translations/hr-wix.txt` | The Croatian translation of every text on the site, one block per Wix text item, with the original formatting kept. This exact file was loaded into Wix Multilingual | translated 2026-11-05 |
 | `site/` | A standalone English/Croatian version of the site (plain HTML/CSS, no Wix). English pages are at the root, Croatian under `site/hr/`. Each page has a language picker at the top right (UK flag + EN, Croatian flag + HR) that switches to the same page in the other language | `scripts/build_site.py` |
 | `scripts/build_site.py` | Rebuilds `site/` from the English page snapshots and `translations/hr-wix.txt` (`python3 scripts/build_site.py`, needs Pillow) | |
+| `scripts/apply_hr_font.py` | Switches Croatian texts from Futura to Avenir Light where Futura can't draw Croatian letters (see below). Rewrites `translations/hr-wix.txt`; safe to run again | |
+| `wix-data/multilingual/settings.json` | Multilingual settings and both languages: English (main, UK flag, `en-GB`) and Croatian (`/hr`, Croatian flag, `hr-HR`) | Wix Locales API |
+| `wix-data/multilingual/translation-content-en.json` | Every English text item as Wix Multilingual stores it, keyed by Wix element and page | Wix Translation Content API |
+| `wix-data/multilingual/translation-content-hr.json` | Every Croatian item on Wix with its publish state and a checksum; at export all 70 texts in `translations/hr-wix.txt` matched Wix exactly | Wix Translation Content API |
+| `wix-data/multilingual/translation-schemas.json` | The Wix element types those texts belong to (text, button, image, page title, menu) | Wix Translation Schema API |
+| `wix-data/installed-apps.json` | All 31 apps installed on the site, including Wix's built-in platform apps | Wix Apps Installer API |
 
 ## Croatian version
 
 **On the Wix site.** Wix Multilingual is installed and the Croatian translation in `translations/hr-wix.txt` is loaded for every page, button, image description, page title and menu item. English is the main language with the UK flag; Croatian is added with the Croatian flag and lives under `/hr`. Wix shows the translations once the site is published from the Editor.
+
+**Croatian letters and fonts.** Every text style on the Wix site uses Wix's `futura-lt-w01-book`, which has no ć, č, đ, Ć or Č, so browsers drew those letters in a fallback font. On the Croatian pages, running text (paragraphs, lists, boat specs, prices) and everything on the Privacy Policy and Accessibility pages now uses Avenir Light (`avenir-lt-w01_35-light1475496`). That font is already loaded on the site and covers every Croatian letter. Measured on the live site at 19px, it has the same x-height as Futura and the line comes out 0.4% wider, so text keeps the same size. Large headings without those letters stay in Futura to match the English pages. English pages are unchanged.
 
 **Standalone site.** `site/` is self-contained (fonts, images and styles included), so it can be hosted anywhere that serves static files. To preview it locally:
 

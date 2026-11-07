@@ -1,0 +1,135 @@
+{
+  "_source": "Wix connector: Apps Installer API (Get Installed Apps), pulled 2026-11-07T08:19:08.984Z",
+  "_note": "Includes the platform apps every Wix site carries; the API returns ids only, names are added for the business apps.",
+  "apps": [
+    {
+      "appDefId": "1480c568-5cbd-9392-5604-1148f5faffa0",
+      "enabled": true,
+      "name": "Promote SEO"
+    },
+    {
+      "appDefId": "14bca956-e09f-f4d6-14d7-466cb3f09103",
+      "enabled": true,
+      "name": "Wix Hotels"
+    },
+    {
+      "appDefId": "13ee94c1-b635-8505-3391-97919052c16f",
+      "enabled": true,
+      "name": "Wix Invoices"
+    },
+    {
+      "appDefId": "14d84998-ae09-1abf-c6fc-3f3cace5bf19",
+      "enabled": true,
+      "name": "Wix Multilingual"
+    },
+    {
+      "appDefId": "135c3d92-0fea-1f9d-2ba5-2a1dfb04297e",
+      "enabled": true
+    },
+    {
+      "appDefId": "139ef4fa-c108-8f9a-c7be-d5f492a2c939",
+      "enabled": true
+    },
+    {
+      "appDefId": "141fbfae-511e-6817-c9f0-48993a7547d1",
+      "enabled": true
+    },
+    {
+      "appDefId": "146c0d71-352e-4464-9a03-2e868aabe7b9",
+      "enabled": true
+    },
+    {
+      "appDefId": "14b89688-9b25-5214-d1cb-a3fb9683618b",
+      "enabled": true
+    },
+    {
+      "appDefId": "14e12b04-943e-fd32-456d-70b1820a2ff2",
+      "enabled": true
+    },
+    {
+      "appDefId": "150ae7ee-c74a-eecd-d3d7-2112895b988a",
+      "enabled": true
+    },
+    {
+      "appDefId": "1a711f05-2040-47df-a9f0-4f9cddb4c3c6",
+      "enabled": true
+    },
+    {
+      "appDefId": "251a12da-ff5c-4f20-a7b0-4fc8a9eb3cf4",
+      "enabled": true
+    },
+    {
+      "appDefId": "307ba931-689c-4b55-bb1d-6a382bad9222",
+      "enabled": true
+    },
+    {
+      "appDefId": "35aec784-bbec-4e6e-abcb-d3d724af52cf",
+      "enabled": true
+    },
+    {
+      "appDefId": "55cd9036-36bb-480b-8ddc-afda3cb2eb8d",
+      "enabled": true
+    },
+    {
+      "appDefId": "74bff718-5977-47f2-9e5f-a9fd0047fd1f",
+      "enabled": true
+    },
+    {
+      "appDefId": "74bff718-5977-47f2-9e5f-a9fd0047fd1f",
+      "enabled": true
+    },
+    {
+      "appDefId": "7efa9936-86f7-44c6-880b-7bae4e044a3d",
+      "enabled": true
+    },
+    {
+      "appDefId": "8ea9df15-9ff6-4acf-bbb8-8d3a69ae5841",
+      "enabled": true
+    },
+    {
+      "appDefId": "94bc563b-675f-41ad-a2a6-5494f211c47b",
+      "enabled": true
+    },
+    {
+      "appDefId": "9bead16f-1c73-4cda-b6c4-28cff46988db",
+      "enabled": true
+    },
+    {
+      "appDefId": "a88e3d6b-3bd0-4fd8-a5e4-ba204fd7b214",
+      "enabled": true
+    },
+    {
+      "appDefId": "d70b68e2-8d77-4e0c-9c00-c292d6e0025e",
+      "enabled": true
+    },
+    {
+      "appDefId": "deadbeef-c8e7-4177-b99a-0084c0924fae",
+      "enabled": true
+    },
+    {
+      "appDefId": "e4b5f1bc-c77a-4319-a60d-a46acb17f6fc",
+      "version": "^0.661.0",
+      "enabled": true
+    },
+    {
+      "appDefId": "ea2821fc-7d97-40a9-9f75-772f29178430",
+      "enabled": true
+    },
+    {
+      "appDefId": "eb377299-86b4-4a86-a1b5-774a2d1d374b",
+      "enabled": true
+    },
+    {
+      "appDefId": "eb377299-86b4-4a86-a1b5-774a2d1d374b",
+      "enabled": true
+    },
+    {
+      "appDefId": "f123e8f1-4350-4c9b-b269-04adfadda977",
+      "enabled": true
+    },
+    {
+      "appDefId": "f5b4ce00-4f7b-4066-a607-0277d16780b8",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,1070 @@
+{
+  "_source": "Wix connector: Translation Content API, Croatian items, pulled 2026-11-07T08:19:08.984Z",
+  "_note": "The Croatian texts themselves are in translations/hr-wix.txt. At export, every text in that file was checked against Wix (FNV-1a checksum over UTF-16): 70 of 70 identical. This file lists every Croatian item on Wix with its publish state.",
+  "items": [
+    {
+      "entityId": "gwvg1",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "title": {
+          "published": true,
+          "length": 23,
+          "fnv1a": "c4d827e1"
+        }
+      }
+    },
+    {
+      "entityId": "iyv84",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "title": {
+          "published": true,
+          "length": 7,
+          "fnv1a": "42ec9773"
+        }
+      }
+    },
+    {
+      "entityId": "j0r08",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "title": {
+          "published": true,
+          "length": 19,
+          "fnv1a": "518dad9f"
+        }
+      }
+    },
+    {
+      "entityId": "masterPage",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "UNPUBLISHED",
+      "updatedDate": "2026-11-06T20:39:29.573Z",
+      "fields": {
+        "title": {
+          "published": false,
+          "length": 58,
+          "fnv1a": "4bd896d"
+        }
+      }
+    },
+    {
+      "entityId": "sbj2r",
+      "schemaId": "08f9ebfa-ca43-4bfa-9960-757069a7b52b",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "title": {
+          "published": true,
+          "length": 7,
+          "fnv1a": "51654fb"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkv1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.990Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 719,
+          "fnv1a": "249b7"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkvt",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.991Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 122,
+          "fnv1a": "5f7b5e09"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkvw1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.991Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 448,
+          "fnv1a": "406a0d08"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkwn",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.991Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 123,
+          "fnv1a": "a1f07a4e"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkww1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.991Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 347,
+          "fnv1a": "b094f36e"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkxg",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.992Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 141,
+          "fnv1a": "ea5d2725"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkxp",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.992Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 599,
+          "fnv1a": "d557bb89"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkxu",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.992Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1346,
+          "fnv1a": "c76de699"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkya",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.992Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 208,
+          "fnv1a": "427cf834"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkyj",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.992Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 447,
+          "fnv1a": "54b9b120"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkyw",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.992Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 168,
+          "fnv1a": "a90d9f44"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkz8",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.993Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 667,
+          "fnv1a": "93d62ac1"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkzm",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.993Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 130,
+          "fnv1a": "1819daea"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkzx",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "gwvg1",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.993Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1116,
+          "fnv1a": "edd16df2"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0u2",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 71,
+          "fnv1a": "f9c82c0a"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0ui",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.988Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 126,
+          "fnv1a": "20262150"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0ve",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.988Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 268,
+          "fnv1a": "4cdda70c"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0xj",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 37,
+          "fnv1a": "4f0ad861"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0y3",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.989Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 135,
+          "fnv1a": "f76ab9a8"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9ffu0yn",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "iyv84",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.989Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 130,
+          "fnv1a": "ef2406b5"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftknz",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.989Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 144,
+          "fnv1a": "b18817c9"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkoj",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.989Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 173,
+          "fnv1a": "24b01748"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkoq",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.990Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 620,
+          "fnv1a": "e35f64e"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkoz",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.990Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 186,
+          "fnv1a": "e36b7410"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkp2",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.990Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 918,
+          "fnv1a": "3bcb7b2f"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkp5",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.990Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 193,
+          "fnv1a": "ea4e2e67"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftkpc",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "j0r08",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.990Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 839,
+          "fnv1a": "b2353d2f"
+        }
+      }
+    },
+    {
+      "entityId": "CUSTOM_MAIN_MENU",
+      "schemaId": "7b403282-108e-4692-9b3c-04738970a2d4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "menu": {
+          "published": true,
+          "length": 274,
+          "fnv1a": "aad6849"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqxlrml",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 7,
+          "fnv1a": "9efa9d9c"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqxmn7c",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 7,
+          "fnv1a": "71a896ee"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvr9agba",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 7,
+          "fnv1a": "9efa9d9c"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvr9avvp",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "masterPage",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 7,
+          "fnv1a": "71a896ee"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftlob",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 64,
+          "fnv1a": "35fd1762"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftloh1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.984Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 717,
+          "fnv1a": "4b55817e"
+        }
+      }
+    },
+    {
+      "entityId": "comp-m9fftlos",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 64,
+          "fnv1a": "346e4bd4"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqu4uid",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": {
+          "published": true,
+          "length": 47,
+          "fnv1a": "d1ae74d9"
+        },
+        "compFeatures-wPhoto-data-title": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-description": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-alt": {
+          "published": true,
+          "length": 46,
+          "fnv1a": "7481fb50"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvquek26",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": {
+          "published": true,
+          "length": 47,
+          "fnv1a": "a640514"
+        },
+        "compFeatures-wPhoto-data-title": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-description": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-alt": {
+          "published": true,
+          "length": 21,
+          "fnv1a": "f9cce06b"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvquwwjd",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.984Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1134,
+          "fnv1a": "795f7ab5"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqv5qrc",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 13,
+          "fnv1a": "12ffb2e0"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqv6wh9",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.985Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 709,
+          "fnv1a": "b21723eb"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqvd491",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.985Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1113,
+          "fnv1a": "18213143"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqveuv7",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 13,
+          "fnv1a": "12ffb2e0"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqw9iwq1",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 278,
+          "fnv1a": "509f3986"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqwav3y",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": {
+          "published": true,
+          "length": 47,
+          "fnv1a": "8cab3a26"
+        },
+        "compFeatures-wPhoto-data-title": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-description": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-alt": {
+          "published": true,
+          "length": 21,
+          "fnv1a": "72266afa"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqwrq34",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 62,
+          "fnv1a": "c6047f3c"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqwsjy4",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 62,
+          "fnv1a": "a6a08e78"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqwtfc3",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.985Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 693,
+          "fnv1a": "b16988ff"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqwvkbr",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.986Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1113,
+          "fnv1a": "5fa6027e"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqwyi7j",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": {
+          "published": true,
+          "length": 47,
+          "fnv1a": "fa25a1ee"
+        },
+        "compFeatures-wPhoto-data-title": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-description": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-alt": {
+          "published": true,
+          "length": 45,
+          "fnv1a": "c24d029b"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqwzb1b",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 13,
+          "fnv1a": "12ffb2e0"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqx1565",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.986Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 742,
+          "fnv1a": "b2bb196b"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqx44vv",
+      "schemaId": "c793b456-fec4-4dfe-9ef9-8a85e2cdc256",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wPhoto-data-uri": {
+          "published": true,
+          "length": 47,
+          "fnv1a": "62ff30d8"
+        },
+        "compFeatures-wPhoto-data-title": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-description": {
+          "published": true,
+          "length": 0,
+          "fnv1a": "811c9dc5"
+        },
+        "compFeatures-wPhoto-data-alt": {
+          "published": true,
+          "length": 52,
+          "fnv1a": "9a60692a"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqx4x8z",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.986Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1113,
+          "fnv1a": "c0400a61"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqx5hos",
+      "schemaId": "f2f2ef5e-8cbd-4296-ade9-b38a49424ba4",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-stylableButton-data-label": {
+          "published": true,
+          "length": 13,
+          "fnv1a": "12ffb2e0"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqx796r",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.988Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 744,
+          "fnv1a": "9f2ca38c"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvqx9ixr",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 225,
+          "fnv1a": "fe8fb93e"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvr7gpdn",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 244,
+          "fnv1a": "dd57229f"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvr7gzsz",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.988Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1024,
+          "fnv1a": "63463973"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvr7sovk",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 238,
+          "fnv1a": "3e9dce21"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvr7svfk",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.988Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 1658,
+          "fnv1a": "118f2b33"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvzglzec",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 206,
+          "fnv1a": "69b0e8c"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvzglzef",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.987Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 422,
+          "fnv1a": "1c1829e3"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvzglzek",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 156,
+          "fnv1a": "8889071d"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvzglzem",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.987Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 989,
+          "fnv1a": "8f0db155"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvzglzer",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-05T19:59:36.338Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 120,
+          "fnv1a": "60b0257e"
+        }
+      }
+    },
+    {
+      "entityId": "comp-mvzh5utf",
+      "schemaId": "181ccb6b-dfb5-4b18-aacc-eadac190f94b",
+      "parentEntityId": "sbj2r",
+      "publishStatus": "PUBLISHED",
+      "updatedDate": "2026-11-07T08:15:12.987Z",
+      "fields": {
+        "compFeatures-wRichText-data-styledText-text": {
+          "published": true,
+          "length": 845,
+          "fnv1a": "d29bc283"
+        }
+      }
+    }
+  ]
+}

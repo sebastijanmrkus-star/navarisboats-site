@@ -41,20 +41,20 @@ Logotip NAVARIS BOATS
 <h3 class="font_4" style="text-align: center;">NAVARIS 7.6M</h3>
 
 === comp-m9fftloh1 compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center">MERCURY VERADO 300 KS V8</p>
-<p class="font_7" style="text-align:center">HYPALON * 5 MM ALUMINIJ 5083</p>
-<p class="font_7" style="text-align:center"><span style="font-size:16px">HLADNJAK * EL. VITLO * HARDTOP * SIMRAD </span></p>
-<p class="font_7" style="text-align:center"><span style="font-size:16px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 300 L * TUŠ</span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">MERCURY VERADO 300 KS V8</span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">HYPALON * 5 MM ALUMINIJ 5083</span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:16px">HLADNJAK * EL. VITLO * HARDTOP * SIMRAD </span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:16px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 300 L * TUŠ</span></span></p>
 
 === comp-mvquek26 compFeatures-wPhoto-data-alt
 Gumenjak NAVARIS 7.6M
 
 === comp-mvquwwjd compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></p>
-<p class="font_7" style="font-size:18px; text-align:center"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">61.990 EUR + PDV</span></span></p>
-<p class="font_7" style="text-align: center; font-size: 19px;"><span style="color:#000000;"><span style="font-size:19px;">POTPUNO NOVO</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></span></p> 
+<p class="font_7" style="font-size:18px; text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">61.990 EUR + PDV</span></span></span></p> 
+<p class="font_7" style="text-align: center; font-size: 19px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000;"><span style="font-size:19px;">POTPUNO NOVO</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></span></p>
 
 === comp-mvqv5qrc compFeatures-stylableButton-data-label
 Saznajte više
@@ -63,20 +63,20 @@ Saznajte više
 <h3 class="font_4" style="text-align: center;">NAVARIS 7.0M</h3>
 
 === comp-mvqv6wh9 compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center">MERCURY 150 KS V6</p>
-<p class="font_7" style="text-align:center">HYPALON * 5 MM ALUMINIJ 5083</p>
-<p class="font_7" style="text-align:center"><span style="font-size:16px">HLADNJAK * EL. VITLO * HARDTOP * SIMRAD</span></p>
-<p class="font_7" style="text-align:center"><span style="font-size:16px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 200 L * TUŠ</span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">MERCURY 150 KS V6</span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">HYPALON * 5 MM ALUMINIJ 5083</span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:16px">HLADNJAK * EL. VITLO * HARDTOP * SIMRAD</span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:16px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 200 L * TUŠ</span></span></p>
 
 === comp-mvqu4uid compFeatures-wPhoto-data-alt
 Gumenjak NAVARIS 7.0M s motorom Mercury 150 KS
 
 === comp-mvqvd491 compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></p>
-<p class="font_7" style="font-size:18px; text-align:center"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">39.990 EUR + PDV</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#000000"><span style="font-size:19px">POTPUNO NOVO</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></span></p> 
+<p class="font_7" style="font-size:18px; text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">39.990 EUR + PDV</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000"><span style="font-size:19px">POTPUNO NOVO</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></span></p>
 
 === comp-mvqveuv7 compFeatures-stylableButton-data-label
 Saznajte više
@@ -85,20 +85,20 @@ Saznajte više
 <h3 class="font_4" style="text-align:center">NAVARIS 4.8M</h3>
 
 === comp-mvqwtfc3 compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center">MERCURY 60 KS V4</p>
-<p class="font_7" style="text-align:center">HYPALON * 5 MM ALUMINIJ 5083</p>
-<p class="font_7" style="text-align:center"><span style="font-size:16px">HLADNJAK * T-TOP * SIMRAD</span></p>
-<p class="font_7" style="text-align:center"><span style="font-size:16px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 60 L&nbsp;</span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">MERCURY 60 KS V4</span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">HYPALON * 5 MM ALUMINIJ 5083</span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:16px">HLADNJAK * T-TOP * SIMRAD</span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:16px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 60 L&nbsp;</span></span></p>
 
 === comp-mvqwyi7j compFeatures-wPhoto-data-alt
 Gumenjak NAVARIS 4.8M s motorom Mercury 60 KS
 
 === comp-mvqwvkbr compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></p>
-<p class="font_7" style="font-size:18px; text-align:center"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">19.500 EUR + PDV</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#000000"><span style="font-size:19px">POTPUNO NOVO</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></span></p> 
+<p class="font_7" style="font-size:18px; text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">19.500 EUR + PDV</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000"><span style="font-size:19px">POTPUNO NOVO</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></span></p>
 
 === comp-mvqwzb1b compFeatures-stylableButton-data-label
 Saznajte više
@@ -107,20 +107,20 @@ Saznajte više
 <h3 class="font_4" style="text-align:center">NAVARIS 8.0M</h3>
 
 === comp-mvqx1565 compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center">MERCURY VERADO 300 KS V8</p>
-<p class="font_7" style="text-align:center">STAKLOPLASTIKA</p>
-<p class="font_7" style="font-size:15px; text-align:center"><span style="font-size:15px">HLADNJAK * EL. VITLO * HARDTOP * SIMRAD * KLIMA</span></p>
-<p class="font_7" style="font-size:15px; text-align:center"><span style="font-size:15px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 400 L * TUŠ</span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">MERCURY VERADO 300 KS V8</span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">STAKLOPLASTIKA</span></p> 
+<p class="font_7" style="font-size:15px; text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:15px">HLADNJAK * EL. VITLO * HARDTOP * SIMRAD * KLIMA</span></span></p> 
+<p class="font_7" style="font-size:15px; text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:15px">OZVUČENJE * SOLARNI PANEL * SPREMNIK GORIVA 400 L * TUŠ</span></span></p>
 
 === comp-mvqx44vv compFeatures-wPhoto-data-alt
 Plovilo NAVARIS 8.0M s motorom Mercury Verado 300 KS
 
 === comp-mvqx4x8z compFeatures-wRichText-data-styledText-text
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></p>
-<p class="font_7" style="font-size:18px; text-align:center"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#E33B08"><span style="font-size:25px">89.900 EUR + PDV</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#000000"><span style="font-size:19px">POTPUNO NOVO</span></span></p>
-<p class="font_7" style="text-align:center"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></p>
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">PLOVILO + MOTOR</span></span></span></p> 
+<p class="font_7" style="font-size:18px; text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px"><span style="color:#000000">JAMSTVO 3 GODINE * ISPORUKA ZA 15 DANA</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#E33B08"><span style="font-size:25px">89.900 EUR + PDV</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000"><span style="font-size:19px">POTPUNO NOVO</span></span></span></p> 
+<p class="font_7" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="color:#000000"><span style="font-size:19px">+385 99 8853 578 info@navarisboats.com</span></span></span></p>
 
 === comp-mvqx5hos compFeatures-stylableButton-data-label
 Saznajte više
@@ -129,30 +129,30 @@ Saznajte više
 <h4 class="font_4" style="font-size:45px; text-align:center"><span style="font-size:45px">PARTNERSTVO ZA CHARTER FLOTU<br> <span style="color:#E33B08">ZARADITE 25 % PRIHODA. BEZ ULAGANJA.</span></span></h4>
 
 === comp-mvzglzef compFeatures-wRichText-data-styledText-text
-<p class="font_8" style="font-size:18px; line-height:1.8em; text-align:center"><span style="font-size:18px">Proširite svoju flotu za najam bez kupnje novih plovila. Mi osiguravamo potpuno novo plovilo NAVARIS i cjelovitu digitalnu infrastrukturu za rezervacije – vi upravljate radom s gostima na lokaciji i zadržavate 25 % neto prihoda.</span></p>
+<p class="font_8" style="font-size:18px; line-height:1.8em; text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px">Proširite svoju flotu za najam bez kupnje novih plovila. Mi osiguravamo potpuno novo plovilo NAVARIS i cjelovitu digitalnu infrastrukturu za rezervacije – vi upravljate radom s gostima na lokaciji i zadržavate 25 % neto prihoda.</span></span></p>
 
 === comp-mvzglzek compFeatures-wRichText-data-styledText-text
 <h3 class="font_5" style="font-size:20px; text-align:center"><span style="color:#E33B08;"><span style="font-size:20px">ŠTO MI OSIGURAVAMO</span></span></h3>
 
 === comp-mvzglzem compFeatures-wRichText-data-styledText-text
-<ul class="font_8" style="font-size:18px">
- <li> <p class="font_8" style="font-size:18px"><span style="font-size:18px">Potpuno novo plovilo Navaris: u potpunosti opremljeno, ispitano na otvorenom moru i spremno za charter po sistemu ključ u ruke.</span></p> </li>
- <li> <p class="font_8" style="font-size:18px"><span style="font-size:18px">Potpuna zaštita i održavanje: puno komercijalno pomorsko osiguranje, registracija u Hrvatskoj i svi redovni servisi motora.&nbsp;</span></p> </li>
- <li> <p class="font_8" style="font-size:18px"><span style="font-size:18px">Sustav za rezervacije ključ u ruke: namjenski sustav za online rezervacije, integrirani sustav naplate i prijenosni mobilni POS uređaj za trenutačno izdavanje računa na gatu.</span></p> </li>
+<ul class="font_8" style="font-size:18px"> 
+ <li> <p class="font_8" style="font-size:18px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px">Potpuno novo plovilo Navaris: u potpunosti opremljeno, ispitano na otvorenom moru i spremno za charter po sistemu ključ u ruke.</span></span></p> </li> 
+ <li> <p class="font_8" style="font-size:18px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px">Potpuna zaštita i održavanje: puno komercijalno pomorsko osiguranje, registracija u Hrvatskoj i svi redovni servisi motora.&nbsp;</span></span></p> </li> 
+ <li> <p class="font_8" style="font-size:18px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px">Sustav za rezervacije ključ u ruke: namjenski sustav za online rezervacije, integrirani sustav naplate i prijenosni mobilni POS uređaj za trenutačno izdavanje računa na gatu.</span></span></p> </li> 
 </ul>
 
 === comp-mvzglzer compFeatures-wRichText-data-styledText-text
 <h3 class="font_5" style="font-size:20px; text-align:center"><span style="font-size:20px">ŠTO VI OSIGURAVATE</span></h3>
 
 === comp-mvzh5utf compFeatures-wRichText-data-styledText-text
-<ul class="font_8" style="font-size: 18px;">
- <li> <p class="font_8" style="font-size: 18px;"><span style="font-size:18px;">Vlastiti vez: siguran i lako dostupan sezonski vez za plovilo.</span></p> </li>
- <li> <p class="font_8" style="font-size: 18px;"><span style="font-size:18px;">Rad s gostima: neometana prijava na licu mjesta, sigurnosni brifing i pregled plovila pri povratku.</span></p> </li>
- <li> <p class="font_8" style="font-size: 18px;"><span style="font-size:18px;">Održavanje između najmova: svakodnevno pranje, točenje goriva i održavanje plovila besprijekorno urednim za goste.</span></p> </li>
+<ul class="font_8" style="font-size: 18px;"> 
+ <li> <p class="font_8" style="font-size: 18px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px;">Vlastiti vez: siguran i lako dostupan sezonski vez za plovilo.</span></span></p> </li> 
+ <li> <p class="font_8" style="font-size: 18px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px;">Rad s gostima: neometana prijava na licu mjesta, sigurnosni brifing i pregled plovila pri povratku.</span></span></p> </li> 
+ <li> <p class="font_8" style="font-size: 18px;"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:18px;">Održavanje između najmova: svakodnevno pranje, točenje goriva i održavanje plovila besprijekorno urednim za goste.</span></span></p> </li> 
 </ul>
 
 === comp-mvqx796r compFeatures-wRichText-data-styledText-text
-<p class="font_9" style="font-size:19px; text-align:right"><span style="letter-spacing:normal"><span style="font-size:19px">U tvrtki NAVARIS BOATS posvećeni smo izradi vrhunskih plovila duljine od 4,8 do 10,5 m. Izrađena od brodograđevnog aluminija 5083 debljine 5 mm i izdržljivog Achilles Hypalona, s ojačanim trupom dubokog V-profila, sva su naša plovila rezultat triju generacija iskustva na moru i neprestanog usavršavanja. Vođeni nenadmašnim omjerom cijene i vrijednosti te beskompromisnom kvalitetom izrade, naša je misija podići vaše mogućnosti na vodi na višu razinu. S ponosom projektirano u luci Ploče, u Hrvatskoj, gdje je i naše sjedište.</span></span></p>
+<p class="font_9" style="font-size:19px; text-align:right"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="letter-spacing:normal"><span style="font-size:19px">U tvrtki NAVARIS BOATS posvećeni smo izradi vrhunskih plovila duljine od 4,8 do 10,5 m. Izrađena od brodograđevnog aluminija 5083 debljine 5 mm i izdržljivog Achilles Hypalona, s ojačanim trupom dubokog V-profila, sva su naša plovila rezultat triju generacija iskustva na moru i neprestanog usavršavanja. Vođeni nenadmašnim omjerom cijene i vrijednosti te beskompromisnom kvalitetom izrade, naša je misija podići vaše mogućnosti na vodi na višu razinu. S ponosom projektirano u luci Ploče, u Hrvatskoj, gdje je i naše sjedište.</span></span></span></p>
 
 === comp-mvqx9ixr compFeatures-wRichText-data-styledText-text
 <h2 class="font_4" style="font-size:45px; line-height:1.25em; text-align:left"><span style="font-size:45px"><span style="letter-spacing:normal">MAJSTORSKA<br> <br> <span style="color:#E33B08">IZRADA.</span></span></span></h2>
@@ -161,115 +161,115 @@ Saznajte više
 <h2 class="font_4" style="font-size:45px; line-height:1.25em; text-align:right"><span style="font-size:45px"><span style="letter-spacing:normal">ISPITANO NA JADRANU<br> <br> <span style="color:#E33B08">MLJET I LASTOVO.</span></span></span></h2>
 
 === comp-mvr7gzsz compFeatures-wRichText-data-styledText-text
-<p class="font_9" style="font-size:19px"><span style="font-size:19px">Otvoreno more oko Mljeta i Lastova svjetski je poznato po svojoj ljepoti, ali i na zlu glasu zbog nemilosrdnih popodnevnih valova i neumornog kratkog, oštrog mora. To je naše dvorište i naš ispitni laboratorij.</span></p>
-<p class="font_9" style="font-size:19px"><span style="font-size:19px"><span>{ZWSP}</span></span></p>
-<p class="font_9" style="font-size:19px"><span style="font-size:19px">Vlastita flota za najam daje nam rijetku inženjersku prednost: iz prve ruke vidimo kako trupovi, tubusi i oprema podnose stvarna komercijalna opterećenja. Svaki model NAVARIS prolazi opsežna ispitivanja na otvorenom moru kako bismo uklonili slabe točke, usavršili geometriju trupa i zajamčili potpuno suhu i ekonomičnu plovidbu.</span></p>
+<p class="font_9" style="font-size:19px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Otvoreno more oko Mljeta i Lastova svjetski je poznato po svojoj ljepoti, ali i na zlu glasu zbog nemilosrdnih popodnevnih valova i neumornog kratkog, oštrog mora. To je naše dvorište i naš ispitni laboratorij.</span></span></p> 
+<p class="font_9" style="font-size:19px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px"><span>{ZWSP}</span></span></span></p> 
+<p class="font_9" style="font-size:19px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Vlastita flota za najam daje nam rijetku inženjersku prednost: iz prve ruke vidimo kako trupovi, tubusi i oprema podnose stvarna komercijalna opterećenja. Svaki model NAVARIS prolazi opsežna ispitivanja na otvorenom moru kako bismo uklonili slabe točke, usavršili geometriju trupa i zajamčili potpuno suhu i ekonomičnu plovidbu.</span></span></p>
 
 === comp-mvr7sovk compFeatures-wRichText-data-styledText-text
 <h2 class="font_4" style="font-size:45px; line-height:1.25em"><span style="font-size:45px"><span style="letter-spacing:normal">SPREMNO ZA CHARTER<br> <br> <span style="color: rgb(227, 59, 8);">IZGRAĐENO DA TRAJE.</span></span></span></h2>
 
 === comp-mvr7svfk compFeatures-wRichText-data-styledText-text
-<p class="font_9" style="font-size:19px; text-align:right"><span style="font-size:19px">Pouzdanost komercijalne razine: strukturna ojačanja uzdužnicama, okovi od nehrđajućeg čelika 316 te kositrene, lako dostupne brodske električne instalacije – namjenski izrađeno za intenzivnu uporabu, brze izmjene gostiju u luci i rad bez zastoja.</span></p>
-<p class="font_9" style="font-size:19px; text-align:right"><span style="font-size:19px"><span>{ZWSP}</span></span></p>
-<p class="font_9" style="font-size:19px; text-align:right"><span style="font-size:19px">Flota spremna za rad po sistemu ključ u ruke: isporučuje se spremno za more i potpuno pušteno u pogon – s usklađenim izvanbrodskim motorom, brodskom elektronikom, kompletnom sigurnosnom opremom za otvoreno more, opremom za vez i UV zaštitom od sunca, kako biste ostvarivali prihod od prvog dana.</span></p>
-<p class="font_9" style="font-size:19px; text-align:right"><span style="font-size:19px"><span>{ZWSP}</span></span></p>
-<p class="font_9" style="font-size:19px; text-align:right"><span style="font-size:19px">Ergonomija za otvoreno more i sigurnost gostiju: promišljen raspored palube s prostranim ležaljkama za sunčanje, velikim i dubokim spremištima te visokim zaštitnim nadvođem za potpuni osjećaj sigurnosti putnika.</span></p>
+<p class="font_9" style="font-size:19px; text-align:right"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Pouzdanost komercijalne razine: strukturna ojačanja uzdužnicama, okovi od nehrđajućeg čelika 316 te kositrene, lako dostupne brodske električne instalacije – namjenski izrađeno za intenzivnu uporabu, brze izmjene gostiju u luci i rad bez zastoja.</span></span></p> 
+<p class="font_9" style="font-size:19px; text-align:right"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px"><span>{ZWSP}</span></span></span></p> 
+<p class="font_9" style="font-size:19px; text-align:right"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Flota spremna za rad po sistemu ključ u ruke: isporučuje se spremno za more i potpuno pušteno u pogon – s usklađenim izvanbrodskim motorom, brodskom elektronikom, kompletnom sigurnosnom opremom za otvoreno more, opremom za vez i UV zaštitom od sunca, kako biste ostvarivali prihod od prvog dana.</span></span></p> 
+<p class="font_9" style="font-size:19px; text-align:right"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px"><span>{ZWSP}</span></span></span></p> 
+<p class="font_9" style="font-size:19px; text-align:right"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Ergonomija za otvoreno more i sigurnost gostiju: promišljen raspored palube s prostranim ležaljkama za sunčanje, velikim i dubokim spremištima te visokim zaštitnim nadvođem za potpuni osjećaj sigurnosti putnika.</span></span></p>
 
 === comp-m9ffu0u2 compFeatures-wRichText-data-styledText-text
 <h1 class="font_2"><span class="color_37">Kontaktirajte nas</span></h1>
 
 === comp-m9ffu0ui compFeatures-wRichText-data-styledText-text
-<p class="font_7">Posjetite naš izložbeni salon</p>
+<p class="font_7"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Posjetite naš izložbeni salon</span></p>
 
 === comp-m9ffu0ve compFeatures-wRichText-data-styledText-text
-<p class="font_8"><span class="color_15">Za sve upite ili kako biste pobliže upoznali naša plovila, slobodno posjetite naš izložbeni salon ili nam se obratite telefonom ili e-poštom.</span></p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span class="color_15">Za sve upite ili kako biste pobliže upoznali naša plovila, slobodno posjetite naš izložbeni salon ili nam se obratite telefonom ili e-poštom.</span></span></p>
 
 === comp-m9ffu0xj compFeatures-wRichText-data-styledText-text
 <h2 class="font_2">Radno vrijeme</h2>
 
 === comp-m9ffu0y3 compFeatures-wRichText-data-styledText-text
-<p class="font_5" style="text-align:right">Radnim danima</p>
+<p class="font_5" style="text-align:right"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Radnim danima</span></p>
 
 === comp-m9ffu0yn compFeatures-wRichText-data-styledText-text
-<p class="font_8">Ponedjeljak – petak: 9:00 – 18:00</p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Ponedjeljak – petak: 9:00 – 18:00</span></p>
 
 === comp-m9fftknz compFeatures-wRichText-data-styledText-text
-<h1 class="font_0" style="text-align:center">Pravila privatnosti</h1>
+<h1 class="font_0" style="text-align:center"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Pravila privatnosti</span></h1>
 
 === comp-m9fftkoj compFeatures-wRichText-data-styledText-text
-<h2 class="font_5" style="font-size:19px"><span style="font-size:19px">Pravna napomena</span></h2>
+<h2 class="font_5" style="font-size:19px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Pravna napomena</span></span></h2>
 
 === comp-m9fftkoq compFeatures-wRichText-data-styledText-text
-<p class="font_8">Objašnjenja i informacije na ovoj stranici samo su općenita i sažeta objašnjenja i informacije o tome kako sastaviti vlastiti dokument Pravila privatnosti. Ovaj članak ne biste trebali smatrati pravnim savjetom ni preporukom o tome što zapravo trebate učiniti jer ne možemo unaprijed znati kakva pravila privatnosti želite uspostaviti između svojeg poslovanja i svojih klijenata i posjetitelja. Preporučujemo da zatražite pravni savjet koji će vam pomoći da ta pravila razumijete i da izradite vlastita Pravila privatnosti.</p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Objašnjenja i informacije na ovoj stranici samo su općenita i sažeta objašnjenja i informacije o tome kako sastaviti vlastiti dokument Pravila privatnosti. Ovaj članak ne biste trebali smatrati pravnim savjetom ni preporukom o tome što zapravo trebate učiniti jer ne možemo unaprijed znati kakva pravila privatnosti želite uspostaviti između svojeg poslovanja i svojih klijenata i posjetitelja. Preporučujemo da zatražite pravni savjet koji će vam pomoći da ta pravila razumijete i da izradite vlastita Pravila privatnosti.</span></p>
 
 === comp-m9fftkoz compFeatures-wRichText-data-styledText-text
-<h2 class="font_5" style="font-size:19px"><span style="font-size:19px">Pravila privatnosti – osnove</span></h2>
+<h2 class="font_5" style="font-size:19px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Pravila privatnosti – osnove</span></span></h2>
 
 === comp-m9fftkp2 compFeatures-wRichText-data-styledText-text
-<p class="font_8">Uzimajući to u obzir, pravila privatnosti izjava su kojom internetska stranica otkriva neke ili sve načine na koje prikuplja, upotrebljava, otkriva i obrađuje podatke svojih posjetitelja i klijenata te kako njima upravlja. Obično sadrže i izjavu o predanosti stranice zaštiti privatnosti posjetitelja ili klijenata te objašnjenje različitih mehanizama koje stranica primjenjuje radi zaštite privatnosti.&nbsp;</p>
-<p class="font_8">&nbsp;</p>
-<p class="font_8">Različite jurisdikcije propisuju različite zakonske obveze o tome što Pravila privatnosti moraju sadržavati. Vaša je odgovornost osigurati da poštujete propise mjerodavne za vaše djelatnosti i lokaciju.&nbsp;</p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Uzimajući to u obzir, pravila privatnosti izjava su kojom internetska stranica otkriva neke ili sve načine na koje prikuplja, upotrebljava, otkriva i obrađuje podatke svojih posjetitelja i klijenata te kako njima upravlja. Obično sadrže i izjavu o predanosti stranice zaštiti privatnosti posjetitelja ili klijenata te objašnjenje različitih mehanizama koje stranica primjenjuje radi zaštite privatnosti.&nbsp;</span></p> 
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">&nbsp;</span></p> 
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Različite jurisdikcije propisuju različite zakonske obveze o tome što Pravila privatnosti moraju sadržavati. Vaša je odgovornost osigurati da poštujete propise mjerodavne za vaše djelatnosti i lokaciju.&nbsp;</span></p>
 
 === comp-m9fftkp5 compFeatures-wRichText-data-styledText-text
-<h2 class="font_5" style="font-size:19px"><span style="font-size:19px">Što uključiti u Pravila privatnosti</span></h2>
+<h2 class="font_5" style="font-size:19px"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-size:19px">Što uključiti u Pravila privatnosti</span></span></h2>
 
 === comp-m9fftkpc compFeatures-wRichText-data-styledText-text
-<p class="font_8">Općenito govoreći, Pravila privatnosti često obuhvaćaju sljedeća pitanja: vrste informacija koje internetska stranica prikuplja i način na koji ih prikuplja; objašnjenje zašto stranica prikuplja te vrste informacija; kakva je praksa stranice u pogledu dijeljenja informacija s trećim stranama; načine na koje posjetitelji i klijenti mogu ostvariti svoja prava u skladu s mjerodavnim propisima o zaštiti privatnosti; posebne prakse u vezi s prikupljanjem podataka maloljetnika; i još mnogo toga.&nbsp;</p>
-<p class="font_8"><br> Više o tome saznajte u našem članku „<span style="text-decoration:underline"><a dataquery="LINK_0">Izrada Pravila privatnosti</a></span>”.</p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Općenito govoreći, Pravila privatnosti često obuhvaćaju sljedeća pitanja: vrste informacija koje internetska stranica prikuplja i način na koji ih prikuplja; objašnjenje zašto stranica prikuplja te vrste informacija; kakva je praksa stranice u pogledu dijeljenja informacija s trećim stranama; načine na koje posjetitelji i klijenti mogu ostvariti svoja prava u skladu s mjerodavnim propisima o zaštiti privatnosti; posebne prakse u vezi s prikupljanjem podataka maloljetnika; i još mnogo toga.&nbsp;</span></p> 
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><br> Više o tome saznajte u našem članku „<span style="text-decoration:underline"><a dataquery="LINK_0">Izrada Pravila privatnosti</a></span>”.</span></p>
 
 === comp-m9fftkv1 compFeatures-wRichText-data-styledText-text
-<p class="font_7"><span class="color_11">Svrha je sljedećeg predloška pomoći vam pri pisanju izjave o pristupačnosti. Imajte na umu da ste odgovorni za to da izjava na vašoj stranici ispunjava zahtjeve lokalnih propisa u vašem području ili regiji.<br> <br> <span style="font-style:italic;">*Napomena: Ova stranica trenutačno ima dva odjeljka. Nakon što završite s uređivanjem Izjave o pristupačnosti u nastavku, ovaj odjeljak trebate izbrisati.</span><br> <br> Više o tome saznajte u našem članku <span style="text-decoration:underline"><a dataquery="LINK_0">„Pristupačnost: dodavanje izjave o pristupačnosti na stranicu”.</a></span></span></p>
+<p class="font_7"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span class="color_11">Svrha je sljedećeg predloška pomoći vam pri pisanju izjave o pristupačnosti. Imajte na umu da ste odgovorni za to da izjava na vašoj stranici ispunjava zahtjeve lokalnih propisa u vašem području ili regiji.<br> <br> <span style="font-style:italic;">*Napomena: Ova stranica trenutačno ima dva odjeljka. Nakon što završite s uređivanjem Izjave o pristupačnosti u nastavku, ovaj odjeljak trebate izbrisati.</span><br> <br> Više o tome saznajte u našem članku <span style="text-decoration:underline"><a dataquery="LINK_0">„Pristupačnost: dodavanje izjave o pristupačnosti na stranicu”.</a></span></span></span></p>
 
 === comp-m9fftkvt compFeatures-wRichText-data-styledText-text
-<h1 class="font_0">Izjava o pristupačnosti</h1>
+<h1 class="font_0"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Izjava o pristupačnosti</span></h1>
 
 === comp-m9fftkvw1 compFeatures-wRichText-data-styledText-text
-<p class="font_8">Ova je izjava posljednji put ažurirana <span style="font-style:italic">[unesite odgovarajući datum].</span><br> <br> Mi u <span style="font-style:italic">[unesite naziv organizacije / tvrtke]</span> radimo na tome da naša stranica <span style="font-style:italic">[unesite naziv i &nbsp;adresu stranice]</span> bude pristupačna osobama s invaliditetom.</p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Ova je izjava posljednji put ažurirana <span style="font-style:italic">[unesite odgovarajući datum].</span><br> <br> Mi u <span style="font-style:italic">[unesite naziv organizacije / tvrtke]</span> radimo na tome da naša stranica <span style="font-style:italic">[unesite naziv i &nbsp;adresu stranice]</span> bude pristupačna osobama s invaliditetom.</span></p>
 
 === comp-m9fftkwn compFeatures-wRichText-data-styledText-text
-<h2 class="font_5">Što je web-pristupačnost</h2>
+<h2 class="font_5"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Što je web-pristupačnost</span></h2>
 
 === comp-m9fftkww1 compFeatures-wRichText-data-styledText-text
-<p class="font_8">Pristupačna stranica omogućuje posjetiteljima s invaliditetom da je pregledavaju jednako ili približno jednako lako i ugodno kao i ostali posjetitelji. To se može postići mogućnostima sustava na kojem stranica radi te s pomoću asistivnih tehnologija.</p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Pristupačna stranica omogućuje posjetiteljima s invaliditetom da je pregledavaju jednako ili približno jednako lako i ugodno kao i ostali posjetitelji. To se može postići mogućnostima sustava na kojem stranica radi te s pomoću asistivnih tehnologija.</span></p>
 
 === comp-m9fftkxg compFeatures-wRichText-data-styledText-text
-<h2 class="font_5">Prilagodbe pristupačnosti na ovoj stranici</h2>
+<h2 class="font_5"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Prilagodbe pristupačnosti na ovoj stranici</span></h2>
 
 === comp-m9fftkxp compFeatures-wRichText-data-styledText-text
-<p class="font_8">Ovu smo stranicu prilagodili u skladu sa smjernicama WCAG <span style="font-style:italic;">[2.0 / 2.1 / 2.2 – odaberite odgovarajuću opciju]</span> i učinili je pristupačnom na razini<span style="font-style:italic;"> [A / AA / AAA – odaberite odgovarajuću opciju].</span> Sadržaj ove stranice prilagođen je za rad s asistivnim tehnologijama, kao što su čitači zaslona i upravljanje tipkovnicom. U sklopu tih nastojanja također smo <span style="font-style:italic;">[uklonite nevažne informacije]:</span></p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Ovu smo stranicu prilagodili u skladu sa smjernicama WCAG <span style="font-style:italic;">[2.0 / 2.1 / 2.2 – odaberite odgovarajuću opciju]</span> i učinili je pristupačnom na razini<span style="font-style:italic;"> [A / AA / AAA – odaberite odgovarajuću opciju].</span> Sadržaj ove stranice prilagođen je za rad s asistivnim tehnologijama, kao što su čitači zaslona i upravljanje tipkovnicom. U sklopu tih nastojanja također smo <span style="font-style:italic;">[uklonite nevažne informacije]:</span></span></p>
 
 === comp-m9fftkxu compFeatures-wRichText-data-styledText-text
-<ul class="font_8">
- <li> <p class="font_8">S pomoću Čarobnjaka za pristupačnost pronašli i otklonili moguće probleme s pristupačnošću</p> </li>
- <li> <p class="font_8">Postavili jezik stranice&nbsp;</p> </li>
- <li> <p class="font_8">Odredili redoslijed sadržaja na stranicama</p> </li>
- <li> <p class="font_8">Definirali jasnu strukturu naslova na svim stranicama</p> </li>
- <li> <p class="font_8">Dodali alternativni tekst slikama</p> </li>
- <li> <p class="font_8">Primijenili kombinacije boja koje zadovoljavaju propisani kontrast</p> </li>
- <li> <p class="font_8">Smanjili upotrebu animacija na stranici</p> </li>
- <li> <p class="font_8">Osigurali pristupačnost svih videozapisa, zvučnih zapisa i datoteka na stranici</p> </li>
+<ul class="font_8"> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">S pomoću Čarobnjaka za pristupačnost pronašli i otklonili moguće probleme s pristupačnošću</span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Postavili jezik stranice&nbsp;</span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Odredili redoslijed sadržaja na stranicama</span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Definirali jasnu strukturu naslova na svim stranicama</span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Dodali alternativni tekst slikama</span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Primijenili kombinacije boja koje zadovoljavaju propisani kontrast</span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Smanjili upotrebu animacija na stranici</span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Osigurali pristupačnost svih videozapisa, zvučnih zapisa i datoteka na stranici</span></p> </li> 
 </ul>
 
 === comp-m9fftkya compFeatures-wRichText-data-styledText-text
-<h2 class="font_5">Izjava o djelomičnoj usklađenosti sa standardom zbog sadržaja trećih strana [dodajte samo ako je primjenjivo]</h2>
+<h2 class="font_5"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Izjava o djelomičnoj usklađenosti sa standardom zbog sadržaja trećih strana [dodajte samo ako je primjenjivo]</span></h2>
 
 === comp-m9fftkyj compFeatures-wRichText-data-styledText-text
-<p class="font_8">Pristupačnost pojedinih stranica ovisi o sadržaju koji ne pripada organizaciji, već pripada <span style="font-style:italic;">[unesite naziv odgovarajuće treće strane]</span>. To se odnosi na sljedeće stranice: <span style="font-style:italic;">[navedite URL-ove stranica]</span>. Stoga za te stranice izjavljujemo djelomičnu usklađenost sa standardom.</p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Pristupačnost pojedinih stranica ovisi o sadržaju koji ne pripada organizaciji, već pripada <span style="font-style:italic;">[unesite naziv odgovarajuće treće strane]</span>. To se odnosi na sljedeće stranice: <span style="font-style:italic;">[navedite URL-ove stranica]</span>. Stoga za te stranice izjavljujemo djelomičnu usklađenost sa standardom.</span></p>
 
 === comp-m9fftkyw compFeatures-wRichText-data-styledText-text
-<h2 class="font_5">Mjere pristupačnosti u organizaciji [dodajte samo ako je primjenjivo]</h2>
+<h2 class="font_5"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Mjere pristupačnosti u organizaciji [dodajte samo ako je primjenjivo]</span></h2>
 
 === comp-m9fftkz8 compFeatures-wRichText-data-styledText-text
-<p class="font_8"><span style="font-style:italic;">[Unesite opis mjera pristupačnosti u fizičkim uredima / poslovnicama organizacije ili tvrtke kojoj stranica pripada. Opis može obuhvatiti sve postojeće mjere pristupačnosti&nbsp; – od početka usluge (npr. parkiralište i / ili&nbsp; stanice javnog prijevoza) do njezina završetka (npr. šalter, stol u restoranu, učionica itd.). Potrebno je navesti i sve dodatne mjere pristupačnosti, kao što su usluge za osobe s invaliditetom i njihova lokacija te pomagala za pristupačnost (npr. indukcijske petlje i dizala) dostupna za upotrebu]</span></p>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-style:italic;">[Unesite opis mjera pristupačnosti u fizičkim uredima / poslovnicama organizacije ili tvrtke kojoj stranica pripada. Opis može obuhvatiti sve postojeće mjere pristupačnosti&nbsp; – od početka usluge (npr. parkiralište i / ili&nbsp; stanice javnog prijevoza) do njezina završetka (npr. šalter, stol u restoranu, učionica itd.). Potrebno je navesti i sve dodatne mjere pristupačnosti, kao što su usluge za osobe s invaliditetom i njihova lokacija te pomagala za pristupačnost (npr. indukcijske petlje i dizala) dostupna za upotrebu]</span></span></p>
 
 === comp-m9fftkzm compFeatures-wRichText-data-styledText-text
-<h2 class="font_5">Zahtjevi, problemi i prijedlozi</h2>
+<h2 class="font_5"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Zahtjevi, problemi i prijedlozi</span></h2>
 
 === comp-m9fftkzx compFeatures-wRichText-data-styledText-text
-<p class="font_8">Ako na stranici uočite problem s pristupačnošću ili vam je potrebna dodatna pomoć, slobodno nam se obratite putem koordinatora za pristupačnost organizacije:</p>
-<ul class="font_8" style="font-style: italic;">
- <li> <p class="font_8"><span style="font-style:italic;">[Ime i prezime koordinatora za pristupačnost]</span></p> </li>
- <li> <p class="font_8"><span style="font-style:italic;">[Broj telefona koordinatora za pristupačnost]</span></p> </li>
- <li> <p class="font_8"><span style="font-style:italic;">[Adresa e-pošte koordinatora za pristupačnost]</span></p> </li>
- <li> <p class="font_8"><span style="font-style:italic;">[Unesite dodatne podatke za kontakt ako su primjenjivi / dostupni]</span></p> </li>
+<p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;">Ako na stranici uočite problem s pristupačnošću ili vam je potrebna dodatna pomoć, slobodno nam se obratite putem koordinatora za pristupačnost organizacije:</span></p> 
+<ul class="font_8" style="font-style: italic;"> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-style:italic;">[Ime i prezime koordinatora za pristupačnost]</span></span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-style:italic;">[Broj telefona koordinatora za pristupačnost]</span></span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-style:italic;">[Adresa e-pošte koordinatora za pristupačnost]</span></span></p> </li> 
+ <li> <p class="font_8"><span style="font-family:avenir-lt-w01_35-light1475496,sans-serif;"><span style="font-style:italic;">[Unesite dodatne podatke za kontakt ako su primjenjivi / dostupni]</span></span></p> </li> 
 </ul>
